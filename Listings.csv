@@ -1,0 +1,1712 @@
+listing_id,host_since,host_acceptance_rate,superhost,host_total_listings,neighborhood,room_type,accommodates,beds,min_nights,price
+3571,11/22/2008,NA,F,3,Georgetown,NA,6,2,90,200
+4197,12/12/2008,0.94,T,2,Capitol Hill,Private room,1,1,7,70
+4373,12/27/2008,0.62,T,3,Takoma,Private room,2,1,28,40
+4375,12/27/2008,0.62,T,3,Takoma,Private room,1,1,28,40
+6165,12/30/2008,1,F,18,Petworth,Private room,1,1,31,82
+26147,12/30/2008,1,F,18,Petworth,Private room,1,1,31,53
+150109,6/20/2011,1,F,1,Dupont Circle,Entire home/apt,2,1,31,135
+153545,6/24/2011,0.99,T,6,Petworth,Private room,1,1,7,59
+155859,6/26/2011,0,F,2,Takoma,Private room,1,1,31,50
+158714,6/30/2011,1,T,6,Georgetown,Entire home/apt,2,1,180,68
+196429,8/11/2011,0.75,F,6,Takoma,Entire home/apt,3,2,31,125
+201116,8/17/2011,0.96,F,1,Takoma,Entire home/apt,2,2,31,90
+204741,8/22/2011,1,F,3,Bellevue,Private room,2,1,31,33
+205809,8/23/2011,0.96,F,1,Petworth,Entire home/apt,6,4,31,103
+223922,6/24/2011,0.99,T,6,Petworth,Entire home/apt,3,2,1,118
+296196,12/22/2011,1,F,1,Dupont Circle,Entire home/apt,4,1,3,149
+326938,1/30/2012,0.53,T,8,Georgetown,Private room,2,1,31,139
+355527,9/1/2011,0.9,T,4,Capitol Hill,Entire home/apt,3,1,2,175
+382111,3/12/2012,1,T,3,Capitol Hill,Entire home/apt,4,2,3,175
+409582,3/30/2012,0.89,T,6,Capitol Hill,Entire home/apt,2,1,2,126
+453159,9/21/2009,0.96,T,2,Capitol Hill,Entire home/apt,5,3,3,133
+494144,6/30/2011,1,T,6,Georgetown,Entire home/apt,2,1,180,68
+542144,6/17/2012,1,F,2,Capitol Hill,Entire home/apt,2,1,31,145
+560341,6/24/2011,0.99,T,6,Petworth,Private room,2,1,30,59
+563607,6/28/2012,0.99,T,2,Dupont Circle,Entire home/apt,2,1,1,130
+610655,7/23/2012,NA,F,2,Petworth,NA,3,1,31,89
+627758,1/30/2012,0.53,T,8,Georgetown,Entire home/apt,4,3,31,299
+638604,1/30/2012,0.53,T,8,Georgetown,Entire home/apt,2,1,31,159
+645298,6/30/2011,1,T,6,Georgetown,Entire home/apt,2,1,180,69
+654835,1/30/2012,0.53,T,8,Georgetown,Private room,2,2,31,139
+713529,9/25/2012,1,F,17,Fort McNair,Private room,3,1,1,91
+834919,6/30/2011,1,T,6,Georgetown,Entire home/apt,2,1,90,68
+841260,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+842418,4/27/2012,0.93,T,10,Downtown,Entire home/apt,2,1,31,250
+860336,4/15/2011,1,F,8,Dupont Circle,Private room,3,2,1,113
+871825,1/5/2013,1,F,1,Capitol Hill,Entire home/apt,3,1,31,120
+887461,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+925318,2/5/2013,1,F,3,Petworth,Private room,2,1,31,50
+997859,1/27/2012,1,T,6,Dupont Circle,Entire home/apt,4,3,31,595
+1048410,4/4/2013,0,F,1,Petworth,Entire home/apt,2,1,31,70
+1083336,4/16/2013,1,T,3,Petworth,Entire home/apt,11,5,31,229
+1092713,4/15/2011,1,F,8,Dupont Circle,Entire home/apt,6,3,1,143
+1116453,4/28/2013,0.17,F,4,Georgetown,Entire home/apt,3,2,90,69
+1138235,3/24/2013,1,F,1,Georgetown,Entire home/apt,6,5,3,999
+1174482,5/2/2010,0.64,T,9,Takoma,Entire home/apt,6,3,5,190
+1205516,9/25/2012,1,F,17,Fort McNair,Private room,1,1,1,70
+1280092,2/26/2013,1,T,2,Petworth,Entire home/apt,4,2,2,120
+1294389,6/21/2013,0.96,T,3,Petworth,Entire home/apt,4,3,31,100
+1340402,6/26/2013,NA,F,1,Takoma,Entire home/apt,5,3,5,125
+1571112,8/23/2013,0.93,T,5,Dupont Circle,Entire home/apt,2,1,180,145
+1593951,5/2/2010,0.64,T,9,Takoma,Entire home/apt,2,1,14,90
+1601459,8/22/2012,NA,F,4,Petworth,Private room,2,1,31,40
+1628187,9/5/2013,0,F,4,Takoma,Private room,1,1,21,45
+1644701,5/2/2010,0.64,T,9,Takoma,Entire home/apt,4,2,7,140
+1806338,10/16/2013,1,F,2,Capitol Hill,Private room,1,1,4,95
+1860120,12/6/2013,NA,F,2,Petworth,Entire home/apt,2,2,2,90
+1864715,10/14/2013,0.63,F,383,Downtown,Entire home/apt,3,2,31,294
+1867513,10/14/2013,0.63,F,383,Downtown,Entire home/apt,5,2,31,364
+1880860,11/3/2013,0.86,F,3,Capitol Hill,Private room,2,1,2,69
+1978626,9/22/2012,0.95,F,1,Takoma,Entire home/apt,2,1,5,84
+1997483,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,247
+2060129,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,166
+2111965,10/10/2013,0.96,T,5,Takoma,Private room,1,1,1,75
+2115421,12/10/2010,0.48,F,79,Dupont Circle,NA,1,1,31,55
+2187594,1/9/2014,1,T,1,Petworth,Entire home/apt,4,2,7,69
+2241084,1/18/2014,0.67,T,2,Georgetown,Entire home/apt,4,2,31,195
+2277705,1/25/2014,0.99,T,3,Capitol Hill,Entire home/apt,4,2,3,114
+2304761,12/10/2010,0.48,F,79,Dupont Circle,Private room,1,1,31,55
+2308259,1/30/2014,0.88,T,1,Georgetown,Entire home/apt,4,2,31,199
+2308761,1/29/2014,1,T,2,Fort McNair,Entire home/apt,4,4,2,149
+2337016,2/4/2014,0.82,T,1,Takoma,Entire home/apt,4,2,4,125
+2361802,2/8/2014,1,T,1,Capitol Hill,Entire home/apt,4,3,3,175
+2371799,10/14/2013,0.63,F,383,Downtown,Entire home/apt,5,2,31,364
+2380536,2/11/2014,0.96,T,2,Capitol Hill,Entire home/apt,2,1,31,111
+2410486,9/5/2013,0,F,4,Takoma,Private room,1,1,21,35
+2419118,9/5/2013,0,F,4,Takoma,Private room,1,1,21,40
+2476761,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,201
+2477330,1/22/2014,1,F,4,Downtown,Private room,2,1,2,88
+2547672,10/10/2013,0.96,T,5,Takoma,Private room,2,1,1,65
+2657916,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,29
+2685655,6/6/2012,0.62,F,2,Georgetown,Entire home/apt,6,2,4,350
+2690487,8/29/2013,0.93,F,2,Capitol Hill,Entire home/apt,6,1,1,176
+2694647,3/5/2012,0.99,F,23,Dupont Circle,Entire home/apt,4,2,31,250
+2791050,4/14/2014,0.99,T,9,Capitol Hill,Private room,2,1,2,68
+2964999,3/16/2013,0.86,F,44,Dupont Circle,Private room,1,1,31,73
+3051210,9/8/2013,0.8,T,1,Takoma,Entire home/apt,2,2,30,100
+3103276,4/14/2014,0.99,T,9,Capitol Hill,Private room,2,2,2,68
+3635540,7/18/2014,1,T,1,Capitol Hill,Entire home/apt,4,2,3,130
+3651862,7/20/2014,0.97,T,1,Georgetown,Entire home/apt,4,2,2,121
+3760995,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+3761001,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,35
+3806145,12/16/2010,0.98,F,2,Capitol Hill,Entire home/apt,2,1,31,164
+3851703,10/10/2013,0.96,T,5,Takoma,Private room,1,1,1,80
+3861766,8/23/2013,0.93,T,5,Dupont Circle,NA,2,1,7,145
+3907276,8/18/2014,1,T,3,Dupont Circle,Entire home/apt,2,1,31,104
+3914048,8/18/2014,NA,F,1,Petworth,Entire home/apt,3,1,31,275
+3997598,8/30/2014,0.76,T,2,Georgetown,Entire home/apt,2,1,3,250
+4033904,9/3/2014,1,T,1,Takoma,Entire home/apt,4,1,1,99
+4054129,7/29/2013,1,T,2,Petworth,Entire home/apt,4,1,31,75
+4055607,9/7/2014,0.98,T,2,Capitol Hill,Entire home/apt,5,2,3,168
+4055742,10/4/2012,0.37,F,9,Georgetown,Entire home/apt,2,1,90,65
+4083095,9/9/2014,0.92,T,2,Dupont Circle,Entire home/apt,2,1,3,139
+4092017,10/14/2013,0.63,F,383,Downtown,Entire home/apt,3,2,31,294
+4190758,8/16/2014,1,T,1,Takoma,Entire home/apt,1,2,3,59
+4204367,1/22/2014,1,F,4,Downtown,Private room,1,1,2,80
+4231934,9/25/2012,1,F,17,Fort McNair,Private room,3,1,1,83
+4284144,1/15/2011,1,F,4,Dupont Circle,Entire home/apt,3,2,3,141
+4325533,10/12/2014,0.69,F,1,Georgetown,Entire home/apt,3,2,3,145
+4359352,3/12/2012,0,F,2,Dupont Circle,Entire home/apt,3,1,31,99
+4417414,4/8/2013,0.47,F,32,Georgetown,Entire home/apt,6,3,31,854
+4420920,8/3/2013,0.98,T,6,Petworth,Entire home/apt,2,1,1,79
+4427874,8/9/2013,1,F,11,Downtown,Private room,1,1,31,59
+4447266,10/14/2013,0.63,F,383,Downtown,Entire home/apt,3,2,31,294
+4468741,1/7/2014,NA,F,1,Georgetown,Entire home/apt,6,2,60,180
+4482916,11/2/2014,1,F,2,Takoma,Entire home/apt,3,2,31,60
+4482945,10/20/2014,0.69,T,3,Petworth,Private room,1,1,2,60
+4567511,8/5/2014,1,F,1,Georgetown,Entire home/apt,2,1,3,120
+4579903,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,145
+4580159,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,224
+4622571,8/18/2014,1,T,3,Dupont Circle,Entire home/apt,2,1,31,127
+4635196,11/21/2014,0.73,F,2,Capitol Hill,Entire home/apt,2,1,31,180
+4645378,11/22/2014,1,T,1,Capitol Hill,Entire home/apt,4,2,3,199
+4801046,9/19/2012,1,T,1,Capitol Hill,Entire home/apt,2,1,2,118
+4841217,12/16/2014,1,T,3,Capitol Hill,Entire home/apt,4,2,31,110
+4848799,3/7/2013,0.95,T,4,Capitol Hill,Private room,2,1,2,126
+4860800,11/6/2014,0,F,14,Downtown,Entire home/apt,3,1,31,80
+4954600,1/3/2015,0,F,4,Takoma,Entire home/apt,6,4,7,150
+4978586,9/29/2014,0.96,T,9,Takoma,Entire home/apt,3,2,31,58
+4978657,12/16/2014,1,T,3,Capitol Hill,Entire home/apt,4,2,31,260
+5015395,10/10/2014,NA,F,1,Petworth,Private room,1,1,65,88
+5026926,12/16/2014,1,T,3,Capitol Hill,Entire home/apt,6,3,31,275
+5075773,10/21/2014,1,T,7,Georgetown,NA,2,1,1,195
+5076606,3/16/2013,0.86,F,44,Dupont Circle,Entire home/apt,4,2,31,200
+5089725,1/27/2012,1,T,6,Dupont Circle,Entire home/apt,3,2,31,284
+5145487,1/22/2014,1,F,4,Downtown,Entire home/apt,9,3,1,339
+5166322,10/21/2014,1,T,7,Georgetown,Entire home/apt,2,1,1,139
+5318112,2/10/2015,0.98,T,2,Georgetown,Entire home/apt,4,2,2,147
+5372128,2/16/2015,0,F,2,Georgetown,Entire home/apt,3,2,31,125
+5565601,9/11/2011,0.98,T,1,Takoma,Private room,2,1,2,75
+5692505,6/30/2011,1,T,6,Georgetown,Entire home/apt,2,1,135,67
+5903980,4/5/2015,1,F,1,Georgetown,Entire home/apt,2,1,2,196
+5986989,9/29/2014,0.96,T,9,Takoma,Entire home/apt,7,3,31,78
+6027248,3/30/2015,0.92,F,682,Downtown,Entire home/apt,5,2,1,364
+6047219,3/22/2013,NA,F,4,Petworth,Entire home/apt,6,2,31,112
+6047348,3/22/2013,NA,F,4,Petworth,Private room,1,1,58,350
+6072414,4/19/2015,1,F,1,Capitol Hill,Entire home/apt,16,6,7,395
+6120408,12/27/2014,0.97,T,1,Takoma,Entire home/apt,2,1,2,80
+6133291,11/3/2013,0.86,F,3,Capitol Hill,Private room,1,1,1,76
+6133914,7/28/2013,NA,F,1,Capitol Hill,Entire home/apt,2,1,31,130
+6155371,3/22/2013,NA,F,4,Petworth,Entire home/apt,2,1,70,350
+6157551,11/2/2014,1,F,2,Takoma,Entire home/apt,7,3,31,158
+6227307,10/22/2013,0.91,F,1,Capitol Hill,Entire home/apt,6,3,2,275
+6334405,5/7/2015,1,T,4,Fort McNair,Private room,1,1,5,75
+6404202,5/7/2015,1,T,4,Fort McNair,Private room,1,1,31,70
+6438519,5/14/2012,0.99,T,4,Georgetown,Entire home/apt,3,2,2,102
+6447693,5/18/2015,1,F,2,Dupont Circle,Entire home/apt,6,4,31,340
+6490357,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+6569449,5/18/2009,0.96,F,158,Capitol Hill,Entire home/apt,2,2,1,159
+6612371,9/5/2013,0,F,4,Takoma,Private room,1,1,21,31
+6627551,5/31/2015,0.2,F,5,Bellevue,Entire home/apt,2,1,31,125
+6674537,1/13/2015,NA,F,1,Georgetown,Entire home/apt,2,1,31,125
+6690084,9/25/2014,NA,F,1,Capitol Hill,Entire home/apt,1,1,31,500
+6832557,6/14/2015,0.96,T,2,Capitol Hill,Entire home/apt,3,1,2,122
+6835726,2/27/2014,NA,F,3,Fort McNair,Entire home/apt,8,4,3,650
+6836332,6/14/2015,0.79,F,1,Capitol Hill,Entire home/apt,2,1,1,121
+6956685,4/26/2015,1,T,3,Takoma,Private room,2,1,1,63
+6968949,3/30/2015,0.92,F,682,Downtown,Entire home/apt,3,2,1,294
+6969950,3/30/2015,0.92,F,682,Downtown,Entire home/apt,5,2,1,364
+7076206,3/27/2015,0.98,F,3,Capitol Hill,Entire home/apt,5,3,31,55
+7181782,9/17/2014,0.97,F,3,Capitol Hill,Entire home/apt,6,3,2,145
+7198161,11/26/2013,0.77,F,8,Georgetown,Entire home/apt,2,1,90,85
+7220755,7/6/2015,NA,F,1,Capitol Hill,NA,4,2,31,159
+7385563,5/19/2011,0.76,F,1,Takoma,Entire home/apt,2,1,3,80
+7429332,9/10/2014,0.88,F,6,Georgetown,Entire home/apt,4,2,31,295
+7452083,6/5/2013,0.75,F,1,Dupont Circle,Entire home/apt,3,1,31,200
+7542054,11/26/2013,0.77,F,8,Georgetown,Entire home/apt,2,1,60,80
+7559867,3/5/2015,1,T,6,Dupont Circle,Entire home/apt,6,5,31,198
+7599680,2/19/2015,0.92,F,15,Dupont Circle,Entire home/apt,3,2,31,85
+7599768,2/19/2015,0.92,F,15,Dupont Circle,Entire home/apt,4,1,31,88
+7626430,9/6/2014,0.6,F,1,Petworth,Entire home/apt,4,3,70,110
+7629788,3/30/2015,0.92,F,682,Downtown,Entire home/apt,3,2,1,294
+7660850,5/7/2015,1,T,1,Georgetown,Entire home/apt,2,1,10,85
+7714870,9/25/2012,1,F,17,Fort McNair,Private room,2,1,31,87
+7714880,9/25/2012,1,F,17,Fort McNair,Private room,3,1,1,89
+7725828,3/30/2015,0.92,F,682,Downtown,Entire home/apt,3,2,1,294
+7733108,2/19/2015,0.92,F,15,Dupont Circle,Entire home/apt,6,3,31,70
+7800582,8/10/2015,1,T,7,Dupont Circle,Entire home/apt,2,1,3,165
+7801335,8/10/2015,1,T,7,Georgetown,Entire home/apt,2,1,3,152
+7930288,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,2,1,31,160
+7931456,10/14/2013,0.63,F,383,Downtown,NA,5,2,31,364
+7968494,5/15/2012,0.81,T,3,Petworth,Entire home/apt,5,2,2,200
+8165340,11/27/2013,1,T,30,Dupont Circle,Entire home/apt,2,1,31,123
+8292724,9/8/2015,NA,F,5,Petworth,Private room,2,1,31,130
+8353034,9/12/2015,0.93,T,2,Takoma,Private room,2,1,2,81
+8363399,4/15/2018,NA,F,1,Dupont Circle,Entire home/apt,2,1,2,141
+8440178,9/17/2015,1,F,3,Capitol Hill,Entire home/apt,3,2,31,89
+8468562,12/8/2014,0.8,F,2,Georgetown,Private room,2,1,5,100
+8565538,3/7/2014,1,T,3,Georgetown,Entire home/apt,4,2,31,375
+8606256,9/17/2015,NA,F,2,Georgetown,Entire home/apt,8,4,31,90
+8645356,8/10/2015,1,T,7,Georgetown,Entire home/apt,2,1,3,135
+8645554,8/10/2015,1,T,7,Georgetown,Entire home/apt,2,1,3,102
+8645700,8/10/2015,1,T,7,Georgetown,Entire home/apt,2,1,3,95
+8646332,8/10/2015,1,T,7,Dupont Circle,Entire home/apt,2,1,3,140
+8646530,8/10/2015,1,T,7,Dupont Circle,Entire home/apt,2,1,3,138
+8682987,12/31/2013,NA,F,1,Georgetown,Entire home/apt,2,1,30,235
+8933705,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,5,5,31,183
+9094563,10/25/2015,0.94,T,2,Capitol Hill,Entire home/apt,2,1,1,134
+9113304,6/8/2012,0,F,2,Capitol Hill,Entire home/apt,6,4,31,239
+9156290,4/11/2013,1,T,1,Capitol Hill,Entire home/apt,6,3,1,187
+9171118,7/3/2013,0.95,T,2,Dupont Circle,Entire home/apt,3,1,2,295
+9199346,8/9/2013,1,F,11,Downtown,Private room,1,1,31,59
+9215039,11/1/2015,0.88,T,1,Capitol Hill,Entire home/apt,4,3,4,175
+9283035,3/22/2014,0.86,T,4,Capitol Hill,Entire home/apt,5,3,5,145
+9318555,1/23/2014,0.95,F,7,Georgetown,Entire home/apt,5,6,3,125
+9363284,10/15/2015,0.99,T,250,Dupont Circle,Entire home/apt,4,2,2,212
+9371337,8/8/2014,1,T,2,Petworth,Entire home/apt,4,2,1,79
+9473056,3/30/2014,0.8,T,1,Capitol Hill,Entire home/apt,2,1,31,85
+9586160,4/5/2013,0,F,29,Dupont Circle,Entire home/apt,6,3,31,99
+9624481,10/19/2013,NA,F,4,Capitol Hill,Entire home/apt,4,1,31,163
+9644823,2/15/2013,0.86,F,7,Bellevue,Entire home/apt,3,1,31,85
+9727618,1/8/2013,NA,F,1,Capitol Hill,Entire home/apt,4,2,31,310
+9907100,8/8/2012,1,T,1,Petworth,NA,4,2,31,90
+9954831,6/11/2014,0.96,F,147,Downtown,Entire home/apt,5,2,3,440
+9973170,2/10/2015,0.98,T,2,Georgetown,Entire home/apt,4,2,2,144
+9993065,12/14/2015,1,F,3,Fort McNair,Entire home/apt,1,1,27,149
+10021464,6/11/2014,0.96,F,147,Downtown,Entire home/apt,5,2,3,436
+10021714,6/11/2014,0.96,F,147,Downtown,Entire home/apt,5,2,1,422
+10021958,6/11/2014,0.96,F,147,Downtown,Entire home/apt,5,2,3,445
+10059402,6/11/2014,0.96,F,147,Downtown,Entire home/apt,5,2,3,436
+10059646,6/11/2014,0.96,F,147,Downtown,Entire home/apt,5,2,3,445
+10066573,9/21/2015,NA,F,2,Capitol Hill,Entire home/apt,3,2,31,80
+10343356,8/1/2015,1,F,5,Dupont Circle,Entire home/apt,2,1,31,95
+10453467,1/8/2016,0,F,1,Petworth,Private room,2,1,31,75
+10526371,7/19/2014,1,T,9,Capitol Hill,Entire home/apt,4,2,1,115
+10543751,1/6/2016,1,T,18,Capitol Hill,Entire home/apt,2,1,31,270
+10543985,1/6/2016,1,T,18,Capitol Hill,Entire home/apt,4,2,31,389
+10551108,10/11/2015,1,T,1,Capitol Hill,Entire home/apt,4,1,2,154
+10575202,1/13/2016,1,F,4,Petworth,Private room,4,1,31,65
+10617103,3/5/2013,1,F,1,Fort McNair,Entire home/apt,9,4,31,385
+10626368,6/15/2014,1,T,3,Capitol Hill,Entire home/apt,2,1,2,104
+10651132,8/8/2015,NA,F,1,Petworth,Private room,6,2,31,65
+10694497,1/19/2016,0.92,T,1,Petworth,Entire home/apt,4,2,2,156
+10733608,1/21/2016,0,F,1,Georgetown,Entire home/apt,2,1,2,200
+11031634,9/28/2014,0,F,2,Capitol Hill,Entire home/apt,2,1,31,95
+11105778,9/10/2014,0.88,F,6,Georgetown,Entire home/apt,3,1,31,245
+11126528,2/7/2016,1,T,1,Capitol Hill,Entire home/apt,4,2,2,155
+11144448,5/29/2012,0.93,T,1,Petworth,Entire home/apt,2,1,3,90
+11183754,2/10/2016,0.99,T,1,Capitol Hill,Entire home/apt,2,1,3,125
+11296745,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,35
+11357292,11/28/2015,1,F,1,Takoma,Entire home/apt,4,1,2,90
+11371592,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,275
+11553508,1/6/2016,1,T,18,Capitol Hill,Entire home/apt,4,1,31,706
+11592639,3/2/2016,1,T,3,Georgetown,Entire home/apt,3,3,90,80
+11637325,3/5/2016,1,T,1,Petworth,Entire home/apt,6,3,3,205
+11714338,3/7/2013,0.95,T,4,Capitol Hill,Private room,1,1,2,110
+11759609,12/23/2015,0.5,F,1,Capitol Hill,Entire home/apt,6,4,31,150
+11767916,3/12/2016,0.98,F,1,Georgetown,Entire home/apt,3,1,31,200
+11809415,3/7/2013,0.95,T,4,Capitol Hill,Private room,2,1,2,100
+11838693,3/15/2016,1,T,4,Takoma,Entire home/apt,4,1,1,96
+11851356,6/15/2015,0.64,T,4,Dupont Circle,Entire home/apt,9,5,4,1128
+11970099,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,6,3,31,354
+12055525,6/13/2011,0.67,F,1,Takoma,Private room,4,4,2,55
+12088417,3/28/2016,NA,F,2,Fort McNair,Private room,2,1,31,88
+12152132,11/27/2013,1,T,30,Capitol Hill,NA,4,2,31,142
+12173928,4/1/2016,0.99,F,2,Petworth,Entire home/apt,3,1,3,75
+12219364,4/27/2013,1,F,5,Dupont Circle,Entire home/apt,3,1,31,102
+12223526,5/13/2015,NA,F,1,Downtown,Entire home/apt,3,1,31,130
+12253009,4/5/2016,1,T,1,Capitol Hill,Entire home/apt,3,1,2,109
+12289125,8/9/2013,1,F,11,Downtown,Private room,1,1,31,85
+12314626,10/2/2014,1,F,3,Bellevue,Entire home/apt,2,1,31,80
+12399984,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,169
+12400338,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,2,1,31,155
+12423375,4/24/2012,0.99,T,1,Capitol Hill,Entire home/apt,2,1,3,105
+12431578,10/1/2015,1,F,4,Takoma,Private room,2,5,31,49
+12446479,3/30/2015,0.92,F,682,Downtown,Entire home/apt,3,2,1,294
+12513824,4/18/2016,0,F,1,Capitol Hill,Entire home/apt,3,1,31,225
+12579823,4/21/2016,NA,F,1,Petworth,Entire home/apt,2,1,31,85
+12581800,4/20/2016,0.67,F,2,Capitol Hill,Entire home/apt,2,1,31,150
+12623775,1/29/2014,1,T,2,Fort McNair,Entire home/apt,6,4,2,450
+12646701,8/15/2015,NA,F,2,Petworth,Entire home/apt,3,1,3,50
+12784285,9/22/2015,1,T,1,Capitol Hill,Entire home/apt,2,1,2,196
+12833258,4/5/2016,0.83,T,1,Petworth,Entire home/apt,3,2,7,100
+12850682,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,385
+12864169,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,251
+12865283,2/15/2013,1,T,1,Dupont Circle,Entire home/apt,4,1,1,144
+12866552,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,265
+12866878,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,224
+12869982,3/16/2016,NA,F,1,Downtown,Entire home/apt,2,1,31,110
+12902944,5/6/2016,NA,F,4,Georgetown,Entire home/apt,5,3,365,250
+12927810,2/19/2015,0.92,F,15,Dupont Circle,Entire home/apt,5,2,31,96
+13005087,4/1/2016,0.99,F,2,Petworth,Entire home/apt,8,6,3,220
+13078902,11/27/2013,1,T,30,Capitol Hill,Entire home/apt,4,2,31,169
+13096118,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,4,3,31,143
+13112324,5/28/2015,NA,F,1,Capitol Hill,Entire home/apt,4,2,31,105
+13138525,8/15/2015,NA,F,2,Petworth,Private room,2,1,31,35
+13175413,3/24/2014,0.72,F,4,Capitol Hill,Entire home/apt,9,5,31,450
+13207086,5/9/2010,1,T,6,Downtown,Entire home/apt,4,2,2,280
+13208131,5/25/2016,0.75,T,1,Takoma,Entire home/apt,3,2,2,100
+13280319,1/14/2014,0.99,F,16,Downtown,Entire home/apt,12,4,32,549
+13313002,6/1/2016,0.82,T,3,Dupont Circle,Entire home/apt,6,2,31,180
+13316914,5/30/2016,1,F,6,Georgetown,Entire home/apt,2,1,31,93
+13342086,4/13/2015,NA,F,1,Capitol Hill,Entire home/apt,4,2,31,190
+13390535,3/30/2015,0.92,F,682,Downtown,Entire home/apt,5,2,1,364
+13491888,10/7/2011,1,F,16,Capitol Hill,Entire home/apt,6,3,4,220
+13492207,10/7/2011,1,F,16,Capitol Hill,Entire home/apt,2,1,4,118
+13494833,10/7/2011,1,F,16,Capitol Hill,Entire home/apt,8,3,31,295
+13542720,8/17/2015,NA,F,1,Capitol Hill,Entire home/apt,8,6,31,275
+13577810,6/16/2016,0.43,F,11,Georgetown,Entire home/apt,2,1,90,65
+13578526,6/16/2016,0.43,F,11,Georgetown,Entire home/apt,2,2,90,65
+13620848,7/30/2014,NA,F,2,Fort McNair,Entire home/apt,2,1,33,100
+13622959,2/18/2016,1,T,1,Capitol Hill,Entire home/apt,3,2,2,119
+13748008,6/5/2017,NA,F,3,Dupont Circle,Entire home/apt,4,2,31,136
+13894976,7/5/2016,0.87,F,2,Capitol Hill,Entire home/apt,6,3,31,375
+13926632,6/30/2013,0.9,F,6,Georgetown,Private room,3,1,1,140
+13959404,7/11/2016,NA,F,2,Dupont Circle,NA,2,1,31,100
+14101888,1/23/2014,1,T,1,Petworth,Entire home/apt,2,1,1,135
+14108883,7/6/2016,NA,F,1,Capitol Hill,Entire home/apt,4,2,31,450
+14148096,1/29/2010,NA,F,3,Downtown,Entire home/apt,5,1,31,75
+14331755,8/3/2016,1,F,2,Capitol Hill,Entire home/apt,5,1,31,219
+14333797,8/3/2016,1,F,2,Capitol Hill,Entire home/apt,5,3,31,199
+14360838,7/2/2013,NA,F,1,Dupont Circle,Entire home/apt,2,1,120,125
+14421376,6/15/2014,NA,F,1,Downtown,Private room,2,1,31,100
+14520972,8/9/2013,1,F,11,Downtown,Private room,1,1,31,59
+14548071,6/12/2013,0.67,F,1,Petworth,Entire home/apt,4,1,32,84
+14660503,4/2/2014,0,F,1,Takoma,Entire home/apt,2,1,4,75
+14694714,8/7/2012,1,T,3,Takoma,Entire home/apt,8,5,22,700
+14748391,2/2/2012,0.82,F,4,Petworth,Private room,2,1,2,70
+14805243,4/13/2014,0.96,T,1,Dupont Circle,Entire home/apt,4,2,1,175
+14890121,10/8/2014,1,T,1,Petworth,Entire home/apt,4,3,2,228
+14899604,9/13/2014,1,F,1,Petworth,Entire home/apt,3,2,31,52
+14918834,9/8/2015,NA,F,5,Petworth,Private room,1,1,31,130
+14944917,11/8/2015,1,T,3,Capitol Hill,Entire home/apt,4,1,3,85
+15092261,12/29/2014,1,T,1,Petworth,Entire home/apt,7,3,2,252
+15155205,9/21/2016,NA,F,1,Dupont Circle,Entire home/apt,2,1,31,79
+15171376,12/29/2014,0.98,T,2,Petworth,Entire home/apt,4,1,2,122
+15176149,12/30/2013,NA,F,1,Dupont Circle,Entire home/apt,2,1,31,73
+15218873,8/31/2015,1,F,1,Capitol Hill,Entire home/apt,2,1,2,158
+15248451,9/27/2016,NA,F,1,Capitol Hill,Entire home/apt,4,2,31,99
+15251965,9/16/2016,0.7,F,320,Downtown,Entire home/apt,3,2,31,342
+15252636,9/16/2016,0.7,F,320,Downtown,Entire home/apt,3,2,31,342
+15253221,9/16/2016,0.7,F,320,Downtown,Entire home/apt,5,2,31,424
+15264519,9/16/2016,0.7,F,320,Downtown,NA,5,2,31,424
+15288203,7/3/2014,NA,F,1,Petworth,Entire home/apt,4,3,31,138
+15343995,10/20/2015,0.99,T,1,Dupont Circle,Entire home/apt,2,1,2,95
+15421820,6/8/2016,1,T,4,Capitol Hill,Entire home/apt,12,4,31,325
+15422186,10/8/2016,1,T,1,Bellevue,Entire home/apt,7,4,31,203
+15483564,3/25/2016,NA,F,1,Dupont Circle,Entire home/apt,4,2,2,130
+15522091,8/6/2015,0.98,T,1,Capitol Hill,Entire home/apt,3,1,1,117
+15522419,7/4/2016,0.96,T,2,Downtown,Entire home/apt,4,2,1,298
+15552233,1/13/2016,0.99,T,1,Capitol Hill,Entire home/apt,4,1,2,76
+15554376,10/18/2016,0.14,F,2,Dupont Circle,Entire home/apt,3,4,180,285
+15655208,5/23/2016,1,T,1,Dupont Circle,Entire home/apt,4,4,2,749
+15658197,6/30/2013,0.9,F,6,Georgetown,Private room,3,2,1,140
+15665231,10/24/2016,0.98,F,1,Capitol Hill,Entire home/apt,4,1,2,153
+15734466,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,177
+15743578,5/26/2013,0.18,F,16,Georgetown,Entire home/apt,2,1,120,71
+15744305,8/13/2013,NA,F,1,Capitol Hill,Entire home/apt,2,1,31,110
+15752720,2/2/2012,0.82,F,4,Petworth,Entire home/apt,4,4,3,200
+15805076,11/2/2016,NA,F,3,Capitol Hill,Entire home/apt,8,3,31,199
+15817486,11/2/2016,NA,F,3,Capitol Hill,Entire home/apt,6,2,31,162
+15899330,2/7/2013,1,F,1,Takoma,Entire home/apt,2,1,7,75
+15937364,8/18/2015,1,T,1,Capitol Hill,Entire home/apt,4,1,1,98
+15938415,7/31/2016,0.88,F,6,Petworth,Private room,1,1,31,75
+15967879,5/19/2016,1,T,1,Downtown,Entire home/apt,3,2,1,106
+15980497,3/28/2012,1,F,2,Downtown,Entire home/apt,4,2,32,100
+15985071,1/11/2014,0.93,F,4,Capitol Hill,Entire home/apt,4,2,2,124
+15988991,5/15/2014,0.14,F,1,Downtown,Entire home/apt,2,1,31,250
+16013376,6/16/2016,0.43,F,11,Georgetown,Entire home/apt,2,1,70,72
+16014460,4/20/2014,0.84,F,3,Petworth,Entire home/apt,8,4,31,250
+16018100,6/19/2012,1,T,1,Capitol Hill,Entire home/apt,2,1,2,95
+16040704,11/19/2016,NA,F,1,Petworth,Entire home/apt,4,2,31,130
+16052295,7/5/2013,1,F,2,Capitol Hill,Entire home/apt,3,2,31,113
+16131739,5/15/2013,0.93,F,5,Petworth,Entire home/apt,9,5,31,420
+16174330,11/29/2016,0.87,F,11,Georgetown,Private room,2,1,1,221
+16174851,8/27/2009,0.83,F,11,Petworth,Entire home/apt,2,1,31,99
+16179637,11/19/2017,NA,F,1,Capitol Hill,Private room,2,1,31,60
+16202179,11/29/2016,0.87,F,11,Georgetown,Private room,2,1,1,214
+16204459,11/29/2016,0.87,F,11,Georgetown,Private room,2,1,1,221
+16218083,11/29/2016,0.87,F,11,Georgetown,Private room,2,1,1,222
+16239379,2/17/2014,NA,F,2,Downtown,Entire home/apt,2,1,180,130
+16284856,2/17/2015,1,T,2,Capitol Hill,Entire home/apt,4,2,31,125
+16285366,11/29/2016,0.87,F,11,Georgetown,Private room,2,1,3,183
+16285598,11/29/2016,0.87,F,11,Georgetown,Private room,2,1,3,189
+16285755,11/29/2016,0.87,F,11,Georgetown,Private room,2,1,1,221
+16286156,11/29/2016,0.87,F,11,Georgetown,Private room,2,1,1,268
+16286331,11/29/2016,0.87,F,11,Georgetown,Private room,3,2,2,280
+16300909,3/16/2012,NA,F,1,Downtown,Entire home/apt,4,2,31,99
+16323750,3/20/2014,0.71,F,2,Downtown,Entire home/apt,4,3,7,89
+16335709,1/10/2016,0.97,F,11,Capitol Hill,Entire home/apt,4,1,1,153
+16343789,9/16/2014,0.85,F,2,Georgetown,Entire home/apt,3,2,1,213
+16344337,10/10/2013,NA,F,1,Petworth,Entire home/apt,2,1,31,42
+16348636,5/30/2013,1,T,1,Takoma,Entire home/apt,4,2,2,69
+16352310,1/14/2016,NA,F,2,Downtown,Entire home/apt,5,3,31,240
+16361327,3/30/2015,0.92,F,682,Downtown,Entire home/apt,5,2,1,364
+16379151,12/14/2016,0.7,F,1,Takoma,Entire home/apt,6,3,2,635
+16405079,7/29/2015,0.99,F,253,Dupont Circle,Private room,2,1,31,110
+16413061,12/17/2016,0.82,F,1,Capitol Hill,Entire home/apt,4,3,4,275
+16413243,12/17/2016,NA,F,1,Capitol Hill,Entire home/apt,5,3,31,250
+16423741,4/21/2013,NA,F,2,Dupont Circle,Entire home/apt,3,1,31,133
+16427431,9/7/2016,NA,F,1,Downtown,Entire home/apt,2,1,31,500
+16427522,12/18/2016,1,T,1,Petworth,Entire home/apt,3,1,2,101
+16448459,12/20/2016,0.81,T,2,Takoma,Entire home/apt,4,3,7,110
+16454685,7/19/2014,1,T,9,Capitol Hill,Entire home/apt,9,6,2,209
+16487475,12/23/2016,0.97,F,2,Petworth,Entire home/apt,2,1,2,72
+16521785,12/26/2016,0.99,F,2,Fort McNair,NA,6,2,31,190
+16525202,8/5/2016,1,F,1,Downtown,Private room,2,1,31,189
+16545332,3/30/2015,NA,F,1,Downtown,Entire home/apt,2,1,182,108
+16576444,7/22/2015,NA,F,1,Capitol Hill,Private room,2,1,31,499
+16583485,1/18/2016,NA,F,1,Downtown,Entire home/apt,3,1,31,175
+16589585,11/22/2014,0.99,T,1,Capitol Hill,Entire home/apt,4,2,30,138
+16602138,1/2/2017,1,T,1,Fort McNair,Entire home/apt,3,2,12,85
+16620442,1/3/2017,0.62,F,3,Georgetown,Entire home/apt,6,2,4,1050
+16650454,4/22/2013,0.95,F,2,Takoma,Entire home/apt,4,1,2,150
+16676204,1/7/2017,NA,F,18,Downtown,Entire home/apt,4,2,31,550
+16678182,9/15/2016,0.99,T,2,Capitol Hill,Entire home/apt,4,1,3,200
+16684937,11/2/2013,0.97,T,3,Downtown,Entire home/apt,2,1,3,300
+16701782,5/19/2016,0.9,F,1,Capitol Hill,Entire home/apt,2,2,7,150
+16703018,7/27/2015,NA,F,1,Dupont Circle,Entire home/apt,2,1,31,94
+16704758,11/2/2016,NA,F,3,Capitol Hill,Entire home/apt,6,1,31,108
+16741874,12/31/2008,0.88,F,3,Georgetown,Entire home/apt,2,1,3,97
+16757351,1/12/2017,0,F,2,Capitol Hill,Private room,1,1,31,89
+16767868,1/13/2017,1,T,7,Dupont Circle,Entire home/apt,5,2,31,377
+16795499,1/6/2016,1,T,1,Capitol Hill,Entire home/apt,2,1,2,148
+16806562,4/19/2016,NA,F,2,Fort McNair,Entire home/apt,2,1,31,375
+16811541,1/16/2017,NA,F,1,Georgetown,Entire home/apt,3,2,31,175
+16825256,7/18/2012,1,F,6,Dupont Circle,Entire home/apt,3,1,31,128
+16828556,6/4/2013,NA,F,3,Dupont Circle,Entire home/apt,4,2,31,100
+16869795,6/15/2015,0.64,T,4,Dupont Circle,Entire home/apt,14,6,3,1128
+16882568,1/21/2017,1,T,1,Capitol Hill,Entire home/apt,2,2,2,149
+16959752,1/9/2013,0.58,T,22,Capitol Hill,Entire home/apt,4,2,31,115
+17044362,4/11/2011,1,T,6,Georgetown,Entire home/apt,2,1,3,145
+17133266,3/9/2016,0.67,F,4,Georgetown,Entire home/apt,2,2,185,55
+17234433,8/10/2014,0.96,T,2,Georgetown,Private room,2,1,2,119
+17303429,11/23/2011,0.71,T,3,Georgetown,Entire home/apt,1,1,4,125
+17387565,2/21/2017,1,F,1,Petworth,Entire home/apt,2,1,2,85
+17464583,4/26/2014,NA,F,1,Dupont Circle,Entire home/apt,2,1,31,60
+17509422,8/3/2013,NA,F,1,Takoma,Entire home/apt,4,3,2,200
+17509770,1/15/2013,0.6,T,11,Petworth,Private room,2,1,31,55
+17558492,12/26/2016,0.99,F,2,Fort McNair,Entire home/apt,6,3,31,190
+17601148,3/7/2017,NA,F,1,Petworth,Private room,2,1,31,75
+17655720,3/10/2017,1,F,1,Dupont Circle,Entire home/apt,4,2,31,95
+17784595,6/4/2014,0.95,T,5,Georgetown,Private room,2,2,3,92
+17840858,9/5/2012,1,T,1,Capitol Hill,Entire home/apt,2,1,1,158
+17846412,12/12/2008,0.94,T,2,Capitol Hill,Private room,1,1,14,85
+17858987,3/23/2017,NA,F,1,Petworth,Entire home/apt,4,2,31,425
+17964221,4/15/2011,1,F,8,Dupont Circle,Private room,4,2,1,106
+17964535,4/15/2011,1,F,8,Dupont Circle,Private room,4,2,1,153
+17980645,5/7/2013,0.78,F,63,Georgetown,Entire home/apt,6,5,1,249
+18076615,12/6/2016,0.9,T,9,Takoma,NA,2,1,32,99
+18189814,7/19/2012,0.2,F,2,Capitol Hill,Entire home/apt,7,5,7,210
+18221455,4/14/2017,0.92,T,1,Takoma,Entire home/apt,2,2,2,59
+18265537,4/26/2015,1,T,3,Takoma,Private room,1,1,1,50
+18269812,4/4/2017,0.94,T,1,Bellevue,Entire home/apt,5,2,1,86
+18288362,7/29/2015,0.99,F,253,Dupont Circle,Private room,2,1,31,125
+18313133,1/13/2017,1,T,7,Dupont Circle,Entire home/apt,2,1,31,189
+18313435,1/13/2017,1,T,7,Dupont Circle,Entire home/apt,2,1,31,204
+18343787,3/16/2013,0.86,F,44,Dupont Circle,Private room,3,1,30,85
+18409075,1/13/2017,1,T,7,Dupont Circle,Entire home/apt,4,2,31,439
+18422244,6/30/2013,0.9,F,6,Georgetown,Private room,6,3,1,300
+18433862,5/3/2016,NA,F,11,Downtown,Entire home/apt,5,3,31,90
+18471909,4/29/2017,1,T,2,Capitol Hill,Entire home/apt,3,2,2,142
+18598439,7/29/2015,0.99,F,253,Dupont Circle,Private room,2,1,31,123
+18636769,1/19/2014,1,F,2,Bellevue,Entire home/apt,1,1,90,55
+18669853,5/16/2015,NA,F,2,Georgetown,Entire home/apt,2,1,31,105
+18746031,9/29/2015,0.99,T,2,Capitol Hill,Private room,2,1,2,95
+18757058,6/13/2015,NA,F,1,Petworth,Entire home/apt,2,1,31,93
+18811872,9/14/2014,0.95,T,1,Georgetown,Entire home/apt,3,2,4,332
+18826674,3/11/2015,0.96,F,4,Dupont Circle,Entire home/apt,3,1,1,222
+18853536,7/20/2016,1,T,1,Capitol Hill,Entire home/apt,3,1,2,101
+18854142,5/21/2017,1,T,3,Georgetown,Entire home/apt,6,4,30,115
+18868200,7/22/2014,1,F,4,Capitol Hill,Private room,1,1,1,125
+18975927,5/28/2017,NA,F,1,Downtown,Entire home/apt,2,1,31,85
+19018633,9/26/2015,NA,F,1,Capitol Hill,Shared room,1,1,31,58
+19025023,11/28/2016,1,F,14,Downtown,Entire home/apt,6,2,31,315
+19093209,6/4/2017,NA,F,1,Georgetown,Entire home/apt,6,4,31,239
+19115559,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,1,31,90
+19142630,7/29/2015,0.99,F,253,Dupont Circle,Private room,2,1,31,104
+19154251,6/7/2017,0.5,F,1,Petworth,Entire home/apt,4,1,31,98
+19231140,3/11/2015,0.96,F,4,Dupont Circle,Entire home/apt,9,4,2,511
+19308865,4/25/2016,NA,F,1,Petworth,Entire home/apt,6,2,31,117
+19373525,6/3/2011,0.56,F,2,Capitol Hill,Entire home/apt,4,1,3,100
+19388832,12/10/2011,0.92,T,7,Capitol Hill,Entire home/apt,4,1,31,139
+19405358,8/21/2011,0.98,T,2,Capitol Hill,Entire home/apt,4,2,2,200
+19429471,6/10/2014,0.69,F,1,Petworth,Private room,2,2,31,40
+19457942,5/4/2016,NA,F,3,Dupont Circle,Entire home/apt,4,2,31,105
+19479297,10/14/2015,1,F,136,Downtown,Entire home/apt,8,6,3,281
+19503298,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,3,2,2,190
+19505495,8/2/2014,1,F,1,Georgetown,Entire home/apt,4,2,2,157
+19506309,6/25/2017,0.75,F,1,Petworth,Entire home/apt,2,1,31,90
+19507167,4/3/2015,NA,F,1,Takoma,Entire home/apt,6,2,31,140
+19508480,9/4/2014,0.99,T,2,Downtown,Private room,2,1,31,62
+19526445,6/11/2016,NA,F,2,Dupont Circle,Private room,2,1,31,85
+19625495,3/14/2014,0.98,T,1,Petworth,Entire home/apt,2,1,3,70
+19637156,10/12/2016,NA,F,3,Dupont Circle,Entire home/apt,2,1,31,200
+19642299,5/10/2015,0.96,T,2,Capitol Hill,Entire home/apt,8,4,31,301
+19766598,6/23/2017,0.88,F,3,Takoma,Private room,1,1,7,49
+19787253,12/6/2016,0.9,T,9,Petworth,Entire home/apt,2,1,32,95
+19846846,12/17/2016,0.2,F,4,Fort McNair,Entire home/apt,2,1,90,110
+19872890,6/4/2014,0.95,T,5,Georgetown,Entire home/apt,2,2,3,103
+19912376,2/2/2017,0.83,F,1,Takoma,Private room,2,1,31,54
+19945206,6/10/2013,0.82,T,2,Capitol Hill,Private room,1,1,2,99
+20028213,9/2/2012,1,T,21,Capitol Hill,Entire home/apt,8,3,31,500
+20049395,5/4/2012,0.97,T,7,Georgetown,Entire home/apt,13,5,2,536
+20124890,9/4/2014,0.99,T,2,Downtown,Private room,2,1,31,60
+20138796,1/6/2015,1,T,1,Capitol Hill,Entire home/apt,3,1,2,157
+20153702,6/3/2011,0.56,F,2,Capitol Hill,Entire home/apt,8,4,7,265
+20166365,12/14/2015,0.97,T,1,Capitol Hill,Entire home/apt,4,4,1,161
+20166874,7/22/2016,0.98,F,10,Georgetown,Private room,2,1,31,75
+20186574,7/22/2016,0.98,F,10,Georgetown,Private room,2,1,31,69
+20192249,8/1/2017,1,F,2,Dupont Circle,Entire home/apt,5,4,2,210
+20213058,8/2/2017,0.91,T,1,Capitol Hill,Entire home/apt,6,3,2,255
+20217934,10/10/2013,0.96,T,5,Takoma,Private room,2,1,7,80
+20253006,3/16/2013,0.86,F,44,Dupont Circle,Private room,2,2,4,125
+20277898,1/12/2015,NA,F,1,Downtown,Private room,2,1,31,85
+20294927,6/22/2014,0.73,T,7,Petworth,Entire home/apt,2,1,3,144
+20302085,11/12/2015,NA,F,5,Downtown,Entire home/apt,3,1,31,165
+20347049,12/19/2013,NA,F,4,Capitol Hill,Entire home/apt,4,1,4,145
+20358943,8/7/2017,0.96,T,1,Capitol Hill,Entire home/apt,4,1,3,126
+20403640,4/27/2017,0.98,F,3,Petworth,Entire home/apt,10,5,31,199
+20403766,3/11/2015,0.96,F,4,Dupont Circle,Entire home/apt,7,4,1,215
+20437419,10/10/2013,0.96,T,5,Takoma,Private room,2,1,4,65
+20437717,7/21/2010,0.99,T,2,Georgetown,Private room,3,1,31,102
+20438692,7/21/2010,0.99,T,2,Georgetown,Private room,3,1,31,102
+20461027,5/18/2009,0.96,F,158,Capitol Hill,Entire home/apt,6,5,31,50
+20500529,10/14/2015,NA,F,1,Petworth,Entire home/apt,4,2,31,94
+20607002,8/21/2017,1,F,1,Dupont Circle,Entire home/apt,4,1,31,115
+20631517,6/2/2016,NA,F,2,Petworth,Entire home/apt,3,1,31,99
+20650534,8/18/2017,0.74,F,45,Capitol Hill,Shared room,6,6,1,25
+20653842,3/26/2016,1,T,5,Petworth,Entire home/apt,1,1,60,55
+20675654,8/18/2017,0.74,F,45,Capitol Hill,Shared room,6,6,1,29
+20722572,9/19/2016,0,F,2,Capitol Hill,Entire home/apt,4,1,31,100
+20743970,11/12/2015,NA,F,5,Downtown,Entire home/apt,5,2,31,240
+20769447,9/1/2017,1,T,2,Capitol Hill,Entire home/apt,2,2,2,138
+20773444,1/10/2016,0.97,F,11,Capitol Hill,Entire home/apt,2,1,1,125
+20808151,10/18/2016,0.14,F,2,Dupont Circle,Private room,2,2,31,157
+20842495,3/2/2013,NA,F,2,Dupont Circle,Private room,2,1,31,62
+20849583,9/7/2017,NA,F,1,Capitol Hill,Entire home/apt,8,4,31,400
+20895152,9/16/2016,0.7,F,320,Downtown,Entire home/apt,3,2,31,342
+21013396,9/19/2017,1,T,1,Petworth,Entire home/apt,4,2,1,126
+21044972,12/21/2016,0.25,F,1,Takoma,Entire home/apt,5,4,3,88
+21065888,6/23/2017,0.88,F,3,Takoma,Private room,1,1,14,49
+21120222,11/12/2015,NA,F,5,Dupont Circle,Entire home/apt,3,1,31,175
+21122879,8/20/2014,1,T,1,Capitol Hill,Entire home/apt,2,1,2,129
+21135212,10/15/2015,0.99,T,250,Georgetown,Entire home/apt,5,3,3,144
+21181175,10/1/2015,1,F,7,Petworth,Entire home/apt,3,2,1,125
+21218730,8/12/2015,0.73,F,6,Takoma,Entire home/apt,2,1,2,118
+21282511,3/16/2013,0.86,F,44,Dupont Circle,Private room,2,1,10,140
+21305912,12/31/2015,1,T,1,Dupont Circle,Entire home/apt,4,2,2,202
+21383659,8/18/2017,0.74,F,45,Capitol Hill,Private room,4,4,1,120
+21384208,8/18/2017,0.74,F,45,Capitol Hill,Shared room,6,6,1,25
+21397208,10/12/2017,0.67,F,2,Georgetown,Entire home/apt,2,1,60,68
+21436504,4/4/2014,NA,F,3,Capitol Hill,Entire home/apt,3,2,31,80
+21437643,9/25/2012,1,F,17,Fort McNair,Private room,2,1,1,91
+21502153,6/30/2015,0.97,T,2,Takoma,Entire home/apt,6,3,30,186
+21531280,8/16/2017,0.98,F,5,Takoma,Entire home/apt,5,4,10,87
+21593076,9/9/2013,NA,F,3,Georgetown,Private room,2,2,31,85
+21642372,11/5/2017,NA,F,1,Dupont Circle,Private room,2,1,2,99
+21646963,12/30/2015,1,F,35,Dupont Circle,Entire home/apt,2,1,31,103
+21662190,9/25/2012,1,F,17,Fort McNair,Private room,4,1,1,90
+21680495,2/13/2016,NA,F,2,Capitol Hill,Private room,2,1,31,60
+21695571,12/17/2015,1,F,1,Dupont Circle,Entire home/apt,4,2,31,120
+21711623,10/19/2017,NA,F,1,Downtown,Entire home/apt,3,1,31,79
+21717185,11/9/2017,0.94,T,1,Takoma,Entire home/apt,2,2,2,82
+21729336,11/28/2016,1,F,14,Downtown,Entire home/apt,6,2,31,315
+21730002,12/27/2012,1,T,2,Takoma,Entire home/apt,2,1,1,81
+21753674,4/13/2017,1,F,5,Capitol Hill,Entire home/apt,2,1,31,57
+21788048,11/16/2015,0.99,T,3,Capitol Hill,Entire home/apt,8,3,3,348
+21869442,6/30/2013,0.9,F,6,Georgetown,Entire home/apt,6,3,1,600
+21887183,2/1/2015,1,T,1,Petworth,Entire home/apt,4,1,1,94
+21976567,5/19/2014,0.92,T,4,Petworth,Entire home/apt,3,1,2,141
+21985828,5/10/2015,0.96,T,2,Capitol Hill,Entire home/apt,6,3,31,239
+21999937,6/12/2011,1,F,4,Takoma,Entire home/apt,1,1,10,95
+22062712,12/3/2017,0.81,T,1,Petworth,Entire home/apt,4,3,2,150
+22075568,8/9/2013,1,F,11,Downtown,Private room,1,1,31,59
+22139377,9/11/2015,NA,F,1,Capitol Hill,Entire home/apt,3,1,31,79
+22143128,9/16/2016,0.7,F,320,Downtown,Entire home/apt,5,3,31,616
+22244228,11/29/2017,0.86,F,1,Petworth,Entire home/apt,8,5,31,350
+22268306,10/26/2015,NA,F,1,Petworth,NA,4,2,31,55
+22341207,12/19/2017,NA,F,1,Bellevue,NA,2,2,31,105
+22342950,12/19/2017,1,F,2,Bellevue,Entire home/apt,2,1,31,98
+22372488,9/16/2016,0.7,F,320,Downtown,Entire home/apt,3,2,31,342
+22372846,9/16/2016,0.7,F,320,Downtown,Entire home/apt,5,2,31,424
+22392135,12/22/2017,0.97,T,1,Downtown,Entire home/apt,2,1,2,132
+22448594,7/2/2013,NA,F,1,Capitol Hill,NA,4,2,31,65
+22479866,12/6/2016,0.9,T,9,Takoma,Private room,1,1,75,48
+22481060,7/14/2015,0.53,F,5,Fort McNair,Entire home/apt,2,2,32,100
+22493531,12/30/2017,0,F,1,Petworth,Entire home/apt,2,1,31,69
+22516816,2/4/2015,0.94,T,4,Takoma,Entire home/apt,4,2,4,175
+22573620,8/9/2013,1,F,11,Downtown,Private room,1,1,31,59
+22618081,3/16/2013,0.86,F,44,Dupont Circle,Private room,2,1,20,125
+22633189,1/29/2016,0.99,T,4,Dupont Circle,Private room,3,2,5,99
+22633496,10/14/2013,0.63,F,383,Downtown,Entire home/apt,3,2,31,294
+22635161,3/16/2013,0.86,F,44,Dupont Circle,Private room,1,1,4,200
+22653176,10/14/2013,0.63,F,383,Downtown,Entire home/apt,5,2,31,364
+22653398,10/14/2013,0.63,F,383,Downtown,Entire home/apt,5,2,31,364
+22670474,8/18/2017,0.74,F,45,Capitol Hill,Shared room,6,6,1,29
+22670678,1/10/2018,0.99,T,6,Dupont Circle,Entire home/apt,6,3,31,350
+22712422,6/4/2015,0.99,T,1,Takoma,Entire home/apt,4,1,1,77
+22731034,3/14/2016,0.73,T,2,Takoma,Entire home/apt,2,2,3,109
+22798280,4/17/2017,1,F,5,Petworth,Private room,3,2,1,70
+22807715,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,295
+22811023,1/10/2018,0.99,T,6,Dupont Circle,Entire home/apt,6,3,31,350
+22825478,9/6/2012,0.82,T,1,Capitol Hill,Entire home/apt,4,1,2,165
+22889391,4/17/2017,1,F,5,Petworth,Private room,2,1,2,58
+22893510,4/6/2015,NA,F,1,Takoma,Entire home/apt,4,1,31,115
+23034323,4/1/2013,NA,F,2,Dupont Circle,Entire home/apt,3,1,31,125
+23078865,2/2/2018,0.91,F,1,Downtown,Entire home/apt,4,4,3,115
+23102166,5/31/2017,0,F,2,Downtown,Private room,1,1,31,100
+23356586,2/18/2018,0.25,F,1,Takoma,Entire home/apt,2,1,1,100
+23368804,6/24/2015,0.97,T,2,Bellevue,Entire home/apt,6,3,1,226
+23409975,7/9/2012,1,F,2,Petworth,Entire home/apt,3,2,14,60
+23455407,10/12/2017,0.67,F,2,Georgetown,Entire home/apt,2,1,60,68
+23464005,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,183
+23480691,6/3/2014,0.93,F,2,Takoma,Entire home/apt,7,3,1,101
+23527224,5/23/2014,NA,F,1,Capitol Hill,Entire home/apt,6,3,31,140
+23539251,9/8/2014,0.93,T,10,Dupont Circle,Entire home/apt,1,1,182,70
+23558219,3/15/2016,1,T,4,Takoma,Entire home/apt,8,2,3,159
+23653501,3/7/2018,0.95,F,8,Petworth,Private room,4,2,31,54
+23654043,3/7/2018,0.95,F,8,Petworth,Private room,2,1,31,55
+23654380,3/7/2018,0.95,F,8,Petworth,Private room,2,1,31,49
+23670148,3/7/2018,0.95,F,8,Takoma,Private room,2,1,31,50
+23686072,11/28/2017,NA,F,1,Takoma,Private room,3,1,31,48
+23713101,4/23/2016,0.99,T,2,Takoma,Entire home/apt,4,1,2,49
+23759196,5/31/2017,0,F,2,Downtown,Entire home/apt,3,2,31,99
+23791737,3/14/2018,1,T,1,Takoma,Entire home/apt,2,1,2,129
+23915943,3/21/2018,NA,F,3,Takoma,Entire home/apt,4,3,4,80
+23925940,8/1/2015,1,F,5,Dupont Circle,Entire home/apt,2,1,31,68
+23936205,3/15/2016,1,T,4,Takoma,Entire home/apt,12,6,4,95
+23959565,1/7/2016,0.98,T,3,Georgetown,Entire home/apt,4,2,31,196
+23959717,3/7/2018,0.95,F,8,Petworth,Private room,2,1,31,45
+23959952,3/7/2018,0.95,F,8,Takoma,NA,2,1,31,47
+23991340,10/15/2015,0.99,T,250,Capitol Hill,Entire home/apt,2,1,2,87
+24084817,3/29/2018,0.75,F,1,Petworth,Entire home/apt,4,3,31,126
+24206768,8/23/2014,0.99,T,1,Petworth,Entire home/apt,5,3,2,152
+24371327,7/27/2016,0.99,T,3,Capitol Hill,Private room,2,1,1,69
+24389155,11/12/2013,NA,F,1,Petworth,Entire home/apt,6,3,31,179
+24402356,10/7/2016,1,T,6,Petworth,Entire home/apt,2,1,31,110
+24404499,5/31/2016,NA,F,1,Dupont Circle,Entire home/apt,2,1,31,135
+24429083,10/7/2016,1,T,6,Petworth,Entire home/apt,2,2,31,99
+24447321,4/16/2018,NA,F,2,Petworth,Entire home/apt,4,2,31,56
+24593697,6/16/2015,1,F,1,Petworth,Entire home/apt,7,4,2,225
+24651395,8/4/2015,0.43,F,86,Downtown,Entire home/apt,3,1,31,199
+24731528,6/10/2015,1,T,3,Takoma,Entire home/apt,4,2,3,200
+24737866,4/29/2018,0.61,F,1,Bellevue,Entire home/apt,8,4,2,173
+24754002,4/28/2018,1,T,1,Dupont Circle,Entire home/apt,2,2,31,161
+24773385,5/1/2018,1,T,1,Capitol Hill,Entire home/apt,4,1,1,97
+24797782,4/18/2015,0.78,F,7,Capitol Hill,Entire home/apt,4,2,31,279
+24908065,12/31/2015,0.86,T,1,Takoma,Entire home/apt,3,1,3,125
+24936527,10/6/2014,0.82,F,4,Georgetown,Entire home/apt,6,4,30,182
+24945114,4/27/2017,0,F,1,Petworth,Private room,2,1,31,150
+24970939,4/7/2017,0.86,F,17,Bellevue,Private room,1,1,5,48
+25037403,4/7/2017,0.86,F,17,Bellevue,Private room,1,1,5,39
+25052809,1/10/2018,0.99,T,6,Georgetown,Entire home/apt,4,2,31,199
+25054523,5/14/2017,0.95,T,1,Petworth,Entire home/apt,4,2,2,97
+25071659,5/14/2018,0.97,F,4,Capitol Hill,Entire home/apt,10,6,2,683
+25101761,8/6/2013,0.99,T,1,Capitol Hill,Entire home/apt,2,1,3,100
+25135916,8/4/2015,0.43,F,86,Downtown,Entire home/apt,4,2,31,269
+25137893,3/5/2015,1,T,6,Dupont Circle,Entire home/apt,4,2,31,159
+25212021,4/7/2017,0.86,F,17,Bellevue,Private room,1,1,5,39
+25233215,2/4/2015,1,T,2,Dupont Circle,Entire home/apt,3,1,14,155
+25239060,11/28/2016,1,F,14,Downtown,Entire home/apt,6,2,31,315
+25314826,12/29/2014,NA,F,3,Petworth,Entire home/apt,3,3,31,79
+25326593,8/18/2017,0.74,F,45,Capitol Hill,Shared room,6,1,1,29
+25326610,3/25/2017,1,F,2,Capitol Hill,Entire home/apt,5,3,31,150
+25348151,10/7/2016,1,T,6,Petworth,Entire home/apt,3,1,31,110
+25426037,5/13/2015,0.86,T,3,Georgetown,Entire home/apt,2,1,6,125
+25474638,8/18/2017,0.74,F,45,Capitol Hill,Shared room,1,1,1,29
+25475308,8/18/2017,0.74,F,45,Capitol Hill,Shared room,1,1,1,29
+25476758,8/18/2017,0.74,F,45,Capitol Hill,Shared room,1,1,1,29
+25491424,7/9/2012,1,F,2,Petworth,Entire home/apt,6,3,3,222
+25628990,10/1/2015,1,F,4,Takoma,Entire home/apt,8,6,31,200
+25629848,12/31/2008,0.88,F,3,Georgetown,Entire home/apt,3,2,4,193
+25814369,1/9/2014,0.98,T,2,Capitol Hill,Entire home/apt,4,1,31,189
+25882830,10/26/2014,0.5,F,2,Georgetown,Entire home/apt,4,2,31,180
+25910521,10/1/2015,1,F,4,Takoma,Private room,1,1,31,40
+25950556,12/23/2012,1,F,9,Dupont Circle,Entire home/apt,2,2,7,120
+25977017,8/27/2013,1,T,1,Capitol Hill,Entire home/apt,5,3,2,150
+26067478,8/21/2017,NA,F,1,Takoma,Entire home/apt,4,2,31,129
+26101337,6/17/2018,NA,F,1,Dupont Circle,Entire home/apt,2,1,31,79
+26193712,6/20/2018,1,F,1,Bellevue,Private room,3,2,30,72
+26366926,8/18/2017,0.74,F,45,Capitol Hill,Shared room,1,1,1,29
+26413555,6/28/2018,1,F,6,Downtown,Entire home/apt,4,2,31,79
+26571232,10/20/2017,NA,F,1,Dupont Circle,Entire home/apt,2,1,31,112
+26579917,10/16/2016,1,T,3,Dupont Circle,Entire home/apt,2,1,1,84
+26605048,1/10/2018,0.99,T,6,Georgetown,Entire home/apt,4,2,31,104
+26668219,12/27/2013,NA,F,1,Capitol Hill,Entire home/apt,7,4,31,200
+26669063,3/25/2017,1,F,2,Capitol Hill,Entire home/apt,2,1,31,87
+26786454,3/30/2015,0.99,T,6,Georgetown,Entire home/apt,4,2,2,175
+26804150,3/6/2018,1,T,14,Dupont Circle,Private room,2,1,7,331
+26819224,11/23/2012,NA,F,1,Fort McNair,Entire home/apt,2,1,31,190
+26895761,1/16/2016,0.88,T,1,Capitol Hill,Entire home/apt,4,2,2,160
+26924135,7/9/2016,0.99,T,2,Takoma,Entire home/apt,3,2,1,99
+26940356,6/7/2016,0.96,F,4,Capitol Hill,Entire home/apt,4,2,2,195
+26950500,8/18/2017,0.74,F,45,Capitol Hill,Shared room,1,1,1,29
+26956333,8/18/2017,0.74,F,45,Capitol Hill,Shared room,1,1,1,25
+26995160,10/27/2012,0.75,T,4,Takoma,Entire home/apt,3,1,13,81
+26998386,2/11/2016,0.96,T,3,Capitol Hill,Entire home/apt,4,2,2,245
+27059660,3/11/2012,1,T,1,Petworth,Entire home/apt,4,2,3,98
+27089942,2/27/2018,NA,F,1,Bellevue,Private room,2,1,31,32
+27171117,1/10/2018,0.99,T,6,Georgetown,Entire home/apt,4,3,31,175
+27190553,5/14/2018,0.97,F,4,Capitol Hill,Entire home/apt,6,2,2,216
+27199803,6/15/2016,NA,F,1,Takoma,Private room,2,1,31,75
+27226405,3/25/2013,NA,F,1,Petworth,Entire home/apt,2,1,31,34
+27263226,10/4/2014,NA,F,2,Dupont Circle,Entire home/apt,3,1,31,105
+27466057,4/19/2016,1,F,16,Georgetown,Entire home/apt,9,6,2,401
+27491163,3/5/2014,NA,F,1,Dupont Circle,Entire home/apt,3,2,31,100
+27518177,11/24/2017,0.96,T,3,Bellevue,Private room,1,1,31,116
+27548833,8/22/2011,1,F,3,Bellevue,Private room,2,1,31,33
+27570172,12/11/2017,1,F,3,Takoma,Entire home/apt,2,1,31,85
+27579183,11/28/2016,1,F,14,Downtown,Entire home/apt,6,2,31,299
+27631877,10/8/2014,NA,F,3,Georgetown,Entire home/apt,3,3,31,300
+27655220,10/7/2016,0.89,T,8,Georgetown,Entire home/apt,2,2,90,72
+27705648,9/8/2014,1,T,1,Capitol Hill,Entire home/apt,2,2,2,104
+27723741,8/13/2018,0.97,F,4,Georgetown,Entire home/apt,5,2,31,286
+27757068,1/8/2013,1,T,4,Dupont Circle,Entire home/apt,4,1,2,189
+27812605,4/6/2011,0.99,T,138,Dupont Circle,Entire home/apt,4,3,30,142
+27813807,1/15/2011,1,F,4,Dupont Circle,Entire home/apt,6,3,3,299
+27873291,6/21/2018,0.5,T,2,Bellevue,Private room,2,1,30,40
+27873912,6/21/2018,0.5,T,2,Bellevue,Private room,2,1,31,40
+27960316,8/22/2018,1,F,1,Dupont Circle,NA,2,1,31,70
+28154722,9/11/2016,0.98,F,2,Petworth,Entire home/apt,4,2,3,97
+28176850,10/21/2014,1,F,8,Petworth,Private room,2,1,1,40
+28180978,8/5/2018,0.98,F,1,Petworth,Entire home/apt,4,4,4,275
+28205073,9/1/2018,1,F,2,Petworth,Entire home/apt,4,1,31,101
+28219170,1/11/2016,NA,F,2,Petworth,Entire home/apt,4,2,31,65
+28254584,12/30/2008,1,F,18,Petworth,Private room,1,1,31,55
+28257191,8/1/2017,1,F,2,Dupont Circle,Entire home/apt,5,4,2,208
+28387345,7/14/2011,0.99,T,4,Capitol Hill,Entire home/apt,4,2,1,196
+28544907,11/24/2017,0.96,T,3,Bellevue,Private room,1,1,31,48
+28563385,6/17/2014,1,F,6,Dupont Circle,Entire home/apt,2,1,60,95
+28581396,9/16/2018,NA,F,4,Georgetown,Entire home/apt,6,3,31,165
+28584255,9/16/2018,NA,F,4,Georgetown,Private room,2,1,31,85
+28584343,9/16/2018,NA,F,4,Georgetown,Private room,2,1,31,75
+28606289,8/22/2017,0.98,T,3,Capitol Hill,Entire home/apt,8,2,31,326
+28646312,11/20/2016,1,T,5,Dupont Circle,Entire home/apt,8,4,2,814
+28679737,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,180
+28738052,3/8/2014,0.88,T,26,Dupont Circle,Entire home/apt,7,4,31,155
+28790411,12/19/2017,1,F,2,Bellevue,Private room,1,1,31,45
+28806419,7/20/2014,NA,F,1,Bellevue,Entire home/apt,4,2,31,70
+28895568,6/27/2012,1,T,9,Capitol Hill,Entire home/apt,4,4,2,107
+28989507,10/2/2018,0,F,1,Dupont Circle,Entire home/apt,4,1,31,140
+29074698,6/28/2018,1,F,6,Downtown,Entire home/apt,4,2,31,79
+29122757,1/23/2012,1,T,2,Capitol Hill,Entire home/apt,2,2,2,149
+29151289,10/8/2018,0.96,T,1,Capitol Hill,Entire home/apt,4,2,2,130
+29183117,10/10/2018,1,F,1,Downtown,Entire home/apt,2,1,31,300
+29189874,6/20/2015,NA,F,2,Takoma,Entire home/apt,2,1,31,75
+29254496,10/13/2018,0.94,F,1,Capitol Hill,Entire home/apt,4,2,31,115
+29518918,1/27/2016,NA,F,2,Dupont Circle,Entire home/apt,3,2,31,130
+29562913,5/26/2013,0.18,F,16,Georgetown,Entire home/apt,2,1,120,68
+29775784,7/10/2018,0.75,F,2,Dupont Circle,Entire home/apt,2,1,60,75
+29853236,4/27/2016,0.8,F,36,Capitol Hill,Entire home/apt,3,1,31,299
+29923648,9/14/2011,0.95,T,3,Georgetown,Entire home/apt,6,3,4,657
+29942074,10/15/2015,0.99,T,250,Capitol Hill,Entire home/apt,3,2,2,75
+29966209,11/21/2008,1,T,1,Petworth,Entire home/apt,4,2,2,109
+30016962,3/16/2013,0.86,F,44,Dupont Circle,Private room,2,1,30,85
+30090744,12/23/2014,1,T,1,Capitol Hill,Entire home/apt,4,2,2,136
+30101500,11/10/2018,1,T,3,Dupont Circle,Entire home/apt,1,1,2,167
+30115570,4/29/2017,1,T,2,Capitol Hill,Entire home/apt,3,2,1,130
+30128318,5/24/2012,NA,F,1,Petworth,Entire home/apt,2,1,90,110
+30178288,5/18/2009,0.96,F,158,Dupont Circle,Entire home/apt,4,2,1,163
+30179598,5/18/2009,0.96,F,158,Dupont Circle,Entire home/apt,5,4,1,200
+30186137,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,4,2,31,216
+30251286,4/6/2011,0.99,T,138,Dupont Circle,Entire home/apt,6,3,30,243
+30264882,6/23/2017,0.88,F,3,Takoma,Entire home/apt,4,2,14,89
+30324130,10/1/2016,0.94,F,3,Dupont Circle,Entire home/apt,4,2,4,289
+30325364,9/20/2018,0.98,F,1,Georgetown,Entire home/apt,4,3,1,250
+30378859,12/28/2014,1,T,8,Dupont Circle,NA,5,3,31,175
+30394567,9/20/2014,1,F,17,Georgetown,Entire home/apt,5,2,1,140
+30395396,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,171
+30557727,8/18/2017,0.74,F,45,Capitol Hill,Shared room,1,1,1,29
+30561986,8/18/2017,0.74,F,45,Capitol Hill,Shared room,1,1,1,25
+30775571,10/14/2015,1,F,136,Downtown,Entire home/apt,8,3,3,253
+30798257,12/12/2018,1,T,1,Georgetown,Entire home/apt,3,3,1,212
+30952933,6/28/2015,1,F,3,Dupont Circle,Entire home/apt,2,1,28,150
+30953867,12/13/2013,0.64,T,1,Bellevue,Private room,2,1,1,58
+30981199,9/2/2012,1,T,21,Capitol Hill,Entire home/apt,5,2,31,182
+30984676,1/23/2016,0.83,F,2,Petworth,Private room,2,2,3,65
+31088980,2/15/2015,1,T,3,Bellevue,Private room,2,1,1,119
+31099388,12/26/2015,1,F,2,Dupont Circle,Entire home/apt,2,1,31,105
+31125533,10/9/2015,1,T,1,Petworth,Entire home/apt,4,2,31,80
+31190454,12/29/2018,0.97,T,1,Capitol Hill,Entire home/apt,4,2,2,131
+31236410,8/6/2014,0.98,F,6,Downtown,Entire home/apt,4,2,3,250
+31239094,11/30/2014,0.98,T,1,Capitol Hill,Entire home/apt,3,2,2,180
+31332079,6/11/2018,0,F,1,Capitol Hill,Entire home/apt,2,1,31,100
+31388922,4/26/2015,NA,F,4,Capitol Hill,Entire home/apt,3,1,31,125
+31389662,9/7/2016,1,F,1,Capitol Hill,Entire home/apt,8,4,2,346
+31444864,4/5/2015,0.83,T,4,Takoma,Entire home/apt,4,2,1,92
+31473995,10/3/2018,0.97,T,5,Bellevue,Entire home/apt,5,2,31,160
+31513085,12/12/2012,0.57,T,1,Takoma,Entire home/apt,1,1,28,75
+31643469,1/17/2019,0.95,F,3,Capitol Hill,Entire home/apt,4,2,31,275
+31714187,3/10/2014,0.99,T,5,Georgetown,Entire home/apt,2,1,3,110
+31806927,1/28/2015,0.79,F,4,Bellevue,Entire home/apt,4,2,31,60
+31925283,8/12/2012,1,T,2,Takoma,Private room,2,1,2,39
+31986507,1/29/2019,0.99,T,1,Capitol Hill,Entire home/apt,6,2,2,176
+32020017,10/15/2013,NA,F,1,Bellevue,Private room,2,1,31,80
+32036948,10/13/2014,NA,F,3,Dupont Circle,Entire home/apt,4,2,31,190
+32082239,11/24/2009,1,F,3,Petworth,Entire home/apt,4,2,31,125
+32082459,11/28/2012,NA,F,3,Dupont Circle,Entire home/apt,2,2,31,145
+32083321,4/25/2012,0.86,F,2,Takoma,Entire home/apt,3,2,1,45
+32127784,10/15/2017,1,F,6,Bellevue,Private room,1,1,31,40
+32151631,3/11/2016,1,F,5,Petworth,Private room,2,1,31,67
+32168514,5/22/2016,NA,F,1,Capitol Hill,NA,4,2,2,137
+32284361,9/27/2010,0.9,F,1,Petworth,Entire home/apt,4,2,31,101
+32285211,10/15/2017,1,F,6,Bellevue,Private room,1,1,31,35
+32298306,3/11/2016,1,F,5,Petworth,Private room,2,1,31,72
+32308418,3/16/2013,0.86,F,44,Dupont Circle,Private room,1,1,20,200
+32358982,4/6/2011,0.99,T,138,Dupont Circle,Entire home/apt,3,2,1,90
+32446700,2/17/2019,1,F,4,Petworth,Private room,2,1,31,100
+32451420,3/3/2013,0.88,T,1,Petworth,Entire home/apt,3,2,3,120
+32464624,7/24/2013,0.96,T,3,Capitol Hill,Entire home/apt,8,3,3,401
+32492651,6/1/2016,0.82,T,3,Dupont Circle,Entire home/apt,5,2,31,131
+32515738,3/24/2017,0.96,F,1,Petworth,Entire home/apt,7,3,3,155
+32521904,2/20/2019,0.96,T,1,Petworth,Entire home/apt,4,1,2,150
+32524882,6/11/2014,0.96,F,147,Fort McNair,Entire home/apt,3,1,3,202
+32550823,6/11/2014,0.96,F,147,Fort McNair,Entire home/apt,5,2,3,370
+32763621,3/2/2019,NA,F,1,Capitol Hill,Entire home/apt,2,1,31,72
+32766486,5/15/2012,0.81,T,3,Petworth,Entire home/apt,4,2,2,121
+32919163,2/8/2014,1,T,1,Capitol Hill,Private room,4,1,2,78
+33008668,2/11/2016,0.96,T,3,Capitol Hill,Entire home/apt,2,1,2,169
+33015333,10/7/2016,0.89,T,8,Georgetown,Entire home/apt,2,1,90,62
+33096397,11/10/2018,1,T,3,Dupont Circle,Entire home/apt,2,1,2,169
+33161628,10/15/2015,0.99,T,250,Petworth,Entire home/apt,5,2,31,291
+33212893,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,6,3,4,204
+33216192,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,4,2,2,203
+33260758,3/28/2014,0.99,T,4,Petworth,Entire home/apt,4,2,2,132
+33276776,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,233
+33277098,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,191
+33277348,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,627
+33366075,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,1,31,70
+33396632,3/11/2016,1,F,5,Petworth,Private room,1,1,31,72
+33469877,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,280
+33485532,3/31/2019,0.06,F,1,Fort McNair,Entire home/apt,3,1,31,100
+33530313,8/27/2011,0.8,F,4,Petworth,Entire home/apt,6,3,31,120
+33584842,11/5/2014,NA,F,2,Fort McNair,Entire home/apt,4,2,31,85
+33633909,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,198
+33639170,4/5/2019,NA,F,1,Downtown,Entire home/apt,2,1,31,113
+33660071,5/7/2013,0.78,F,63,Georgetown,Entire home/apt,7,5,1,249
+33718308,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,315
+33721595,3/14/2013,0.96,T,4,Capitol Hill,Entire home/apt,6,3,3,676
+33766197,5/2/2013,0.96,F,1,Petworth,Entire home/apt,2,1,31,79
+33771524,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,112
+33772102,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,191
+33830823,9/20/2014,1,F,17,Georgetown,Entire home/apt,5,3,1,132
+33856921,11/10/2018,1,T,3,Dupont Circle,Entire home/apt,5,2,2,325
+33972170,4/12/2019,0.9,T,3,Capitol Hill,Entire home/apt,4,3,3,150
+33997170,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,205
+34023379,6/11/2014,0.96,F,147,Downtown,Entire home/apt,5,2,30,298
+34054492,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+34137898,1/4/2013,0.96,T,4,Petworth,Entire home/apt,4,2,3,293
+34156122,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+34175841,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+34183228,6/11/2014,0.96,F,147,Fort McNair,Entire home/apt,5,2,3,395
+34243546,4/28/2019,0.87,T,1,Capitol Hill,Entire home/apt,4,2,2,129
+34296434,2/20/2014,0.5,F,2,Downtown,Entire home/apt,2,1,31,95
+34371286,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+34416381,11/26/2012,0.99,T,5,Georgetown,Private room,1,1,2,67
+34421731,7/19/2017,0.88,T,5,Capitol Hill,Private room,1,1,60,60
+34449825,1/10/2018,0.99,T,6,Georgetown,Entire home/apt,4,2,31,125
+34510493,6/11/2014,1,T,1,Downtown,Entire home/apt,2,2,31,250
+34603310,2/22/2017,1,F,3,Bellevue,Private room,2,1,31,150
+34621475,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,39
+34859597,7/19/2017,0.88,T,5,Capitol Hill,Private room,2,1,90,67
+35068620,3/16/2013,0.86,F,44,Dupont Circle,Private room,2,1,2,155
+35079953,11/23/2011,NA,F,4,Petworth,Private room,2,1,60,50
+35161686,1/31/2014,0.97,T,1,Capitol Hill,Entire home/apt,4,2,2,100
+35201832,4/25/2016,0.97,F,1,Dupont Circle,Entire home/apt,2,1,3,213
+35309607,12/20/2018,NA,F,1,Dupont Circle,Entire home/apt,4,1,31,99
+35321791,8/16/2017,0.98,F,5,Takoma,Entire home/apt,6,2,7,87
+35336448,6/3/2019,0.94,T,2,Capitol Hill,Entire home/apt,4,2,2,145
+35343181,9/20/2014,1,F,17,Georgetown,Entire home/apt,6,2,1,138
+35382379,8/6/2015,NA,F,1,Downtown,Entire home/apt,2,1,31,92
+35471374,11/10/2015,0.93,F,8,Georgetown,Entire home/apt,3,1,77,137
+35579189,10/1/2016,0.94,F,3,Dupont Circle,Entire home/apt,1,1,3,115
+35640948,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,8,5,1,362
+35679103,7/27/2016,0.99,T,3,Capitol Hill,Private room,2,1,1,72
+35716823,11/10/2015,0.93,F,8,Georgetown,Entire home/apt,2,1,25,177
+35717206,12/6/2015,NA,F,1,Dupont Circle,Entire home/apt,4,3,31,125
+35741692,1/2/2017,0.99,T,1,Capitol Hill,Entire home/apt,4,2,2,144
+35764525,10/21/2014,1,F,8,Petworth,Entire home/apt,5,2,7,85
+35841334,9/2/2013,1,T,11,Fort McNair,Entire home/apt,7,6,3,299
+36018580,12/16/2016,0.97,F,4369,Dupont Circle,Entire home/apt,2,1,32,146
+36027092,6/14/2019,0.83,F,10,Dupont Circle,Private room,2,1,31,322
+36027382,6/14/2019,0.83,F,10,Dupont Circle,Private room,4,2,31,335
+36027557,6/14/2019,0.83,F,10,Dupont Circle,Private room,2,1,31,322
+36027693,6/14/2019,0.83,F,10,Dupont Circle,Private room,2,1,31,327
+36028001,6/14/2019,0.83,F,10,Dupont Circle,Private room,2,1,31,342
+36028494,6/14/2019,0.83,F,10,Dupont Circle,Private room,2,1,31,332
+36028730,6/14/2019,0.83,F,10,Dupont Circle,Private room,3,2,31,522
+36029068,6/14/2019,0.83,F,10,Dupont Circle,Private room,2,2,31,422
+36030026,5/29/2013,NA,F,1,Fort McNair,Entire home/apt,4,2,31,110
+36067662,7/26/2016,NA,F,1,Takoma,Entire home/apt,5,2,31,80
+36109968,6/13/2019,1,F,10,Capitol Hill,Private room,2,1,31,345
+36165468,6/13/2019,1,F,10,Capitol Hill,Private room,2,1,31,335
+36165711,6/13/2019,1,F,10,Capitol Hill,Private room,2,1,31,335
+36166901,6/13/2019,1,F,10,Capitol Hill,Private room,2,1,31,405
+36170124,6/14/2019,1,F,16,Dupont Circle,Private room,2,1,31,362
+36194044,6/14/2019,1,F,16,Dupont Circle,Private room,2,1,31,362
+36194212,6/14/2019,1,F,16,Dupont Circle,Private room,2,1,31,372
+36257592,6/19/2019,0.99,F,11,Dupont Circle,Entire home/apt,2,1,1,151
+36258139,6/19/2019,0.99,F,11,Dupont Circle,Entire home/apt,2,1,1,144
+36260091,6/19/2019,0.99,F,11,Dupont Circle,Entire home/apt,2,1,1,127
+36282039,7/1/2019,0.95,T,1,Capitol Hill,Entire home/apt,4,2,2,106
+36298242,6/14/2019,1,F,16,Dupont Circle,Private room,2,1,31,412
+36299357,6/14/2019,1,F,16,Dupont Circle,Private room,2,1,31,412
+36302896,6/14/2019,1,F,16,Dupont Circle,Private room,2,1,31,562
+36341382,3/21/2016,1,T,2,Capitol Hill,Entire home/apt,5,3,1,100
+36348357,10/21/2014,1,F,8,Petworth,Private room,2,1,5,75
+36351097,10/21/2014,1,F,8,Petworth,Private room,2,1,5,60
+36352140,10/21/2014,1,F,8,Petworth,Private room,1,1,7,45
+36356881,2/8/2016,1,F,2,Petworth,Entire home/apt,2,1,31,65
+36414607,6/28/2018,1,F,6,Downtown,Entire home/apt,2,1,31,89
+36488009,7/7/2019,0.93,T,2,Capitol Hill,Entire home/apt,2,1,3,105
+36608550,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,6,3,31,564
+36705115,3/15/2015,0.98,T,1,Capitol Hill,Entire home/apt,2,1,2,125
+36720015,8/15/2018,0.97,F,1,Petworth,Entire home/apt,4,2,2,100
+36909059,2/24/2016,1,T,1,Capitol Hill,Entire home/apt,4,1,2,144
+36972948,5/18/2015,1,T,1,Capitol Hill,Entire home/apt,4,1,31,75
+37018045,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,38
+37138408,7/26/2019,NA,F,1,Downtown,Entire home/apt,3,2,31,71
+37179549,7/27/2019,1,T,3,Capitol Hill,Private room,2,2,2,194
+37181831,7/5/2019,0.98,T,1,Capitol Hill,Entire home/apt,2,2,3,170
+37253675,7/29/2019,NA,F,1,Capitol Hill,Entire home/apt,6,2,31,100
+37299481,1/3/2016,1,T,1,Georgetown,Entire home/apt,6,4,2,405
+37303418,10/14/2018,1,T,1,Georgetown,Entire home/apt,8,5,2,602
+37421005,12/30/2016,1,T,1,Capitol Hill,Entire home/apt,3,1,2,109
+37431165,7/19/2017,0.88,T,5,Capitol Hill,Private room,1,1,90,64
+37456647,4/3/2016,NA,F,2,Georgetown,Entire home/apt,4,2,31,175
+37458898,11/20/2010,NA,F,3,Takoma,Entire home/apt,4,2,31,488
+37834451,3/5/2015,1,T,6,Dupont Circle,Entire home/apt,2,1,31,114
+37838983,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,3,2,1,138
+37881373,10/15/2015,0.99,T,250,Capitol Hill,Entire home/apt,2,1,3,78
+37916753,12/6/2016,0.9,T,9,Takoma,Private room,1,1,75,45
+37986544,6/29/2015,0.92,T,4,Bellevue,Entire home/apt,4,2,31,103
+38021592,10/19/2011,1,T,4,Petworth,Entire home/apt,4,2,2,94
+38104114,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,4,2,2,254
+38104981,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,4,2,2,262
+38133336,8/27/2019,1,T,2,Dupont Circle,Entire home/apt,4,3,2,269
+38140187,5/7/2013,0.78,F,63,Georgetown,Entire home/apt,8,5,1,249
+38156682,3/30/2015,0.92,F,682,Downtown,Entire home/apt,3,2,1,294
+38266236,3/20/2014,0.93,T,1,Capitol Hill,Entire home/apt,3,1,2,200
+38321510,3/3/2017,0.76,F,1,Capitol Hill,Entire home/apt,2,1,2,185
+38385816,8/26/2019,0.95,T,21,Georgetown,Entire home/apt,4,2,2,266
+38478357,9/9/2019,1,T,2,Capitol Hill,Entire home/apt,2,1,2,127
+38711311,8/28/2016,NA,F,1,Downtown,Entire home/apt,2,1,31,106
+38793598,9/12/2019,1,F,3,Petworth,Entire home/apt,3,2,31,189
+38915618,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,8,4,2,538
+38932132,7/27/2017,1,F,2,Georgetown,Private room,1,1,3,89
+39058403,11/20/2010,NA,F,3,Takoma,Entire home/apt,6,3,31,566
+39083672,4/3/2018,NA,F,4,Takoma,Entire home/apt,4,3,31,179
+39194624,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,6,3,31,260
+39445808,10/15/2017,1,F,4,Georgetown,Entire home/apt,7,3,31,250
+39484120,6/27/2019,0.5,F,1,Petworth,Private room,2,1,2,70
+39535837,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,6,3,1,265
+39596942,2/11/2016,NA,F,2,Capitol Hill,Entire home/apt,4,2,31,100
+39604002,10/24/2019,0.99,F,4,Dupont Circle,Entire home/apt,2,1,1,355
+39604041,10/24/2019,0.99,F,4,Dupont Circle,Entire home/apt,2,1,1,332
+39604044,10/24/2019,0.99,F,4,Dupont Circle,Entire home/apt,2,1,1,425
+39604046,10/24/2019,0.99,F,4,Dupont Circle,Private room,2,1,1,472
+39726649,1/9/2014,0.98,T,2,Capitol Hill,Entire home/apt,5,1,1,171
+39752076,4/6/2011,0.99,T,138,Dupont Circle,Entire home/apt,3,1,1,89
+39755135,10/18/2019,0.79,F,5,Capitol Hill,Private room,1,1,31,74
+39798533,11/1/2019,0.84,T,1,Petworth,Entire home/apt,2,2,2,80
+39809926,11/2/2019,1,F,1,Capitol Hill,Entire home/apt,6,3,3,285
+40002408,8/29/2016,1,F,1,Bellevue,Entire home/apt,4,2,2,92
+40029212,3/30/2015,0.92,F,682,Downtown,Entire home/apt,5,2,1,364
+40137146,11/15/2019,1,F,5,Takoma,Entire home/apt,8,3,31,329
+40162430,11/17/2019,NA,F,1,Dupont Circle,Entire home/apt,2,1,31,75
+40171821,2/21/2017,0.5,F,2,Takoma,Entire home/apt,2,1,31,77
+40182964,11/17/2019,0.99,F,3,Takoma,Entire home/apt,4,2,3,95
+40212701,6/9/2017,NA,F,1,Dupont Circle,Entire home/apt,4,3,31,70
+40279351,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,3,2,1,168
+40305227,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,198
+40348377,3/28/2016,NA,F,2,Capitol Hill,Entire home/apt,5,2,31,150
+40373899,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,2,31,65
+40428080,11/15/2019,1,F,5,Takoma,Entire home/apt,6,3,31,267
+40475058,7/21/2015,NA,F,3,Petworth,Private room,2,1,31,30
+40608158,9/23/2013,1,T,2,Capitol Hill,Entire home/apt,2,2,3,70
+40612056,9/10/2013,1,T,3,Dupont Circle,Entire home/apt,4,2,31,198
+40632048,12/6/2016,0.9,T,9,Takoma,Private room,1,1,55,50
+40717616,3/25/2017,0.82,T,1,Petworth,Entire home/apt,10,6,31,312
+40721023,6/8/2016,NA,F,7,Downtown,Entire home/apt,4,1,31,69
+40786381,9/18/2019,NA,F,1,Downtown,Entire home/apt,3,1,31,129
+40900395,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,182
+40900667,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,1,31,220
+40950797,5/11/2016,0.83,F,8,Downtown,Shared room,1,4,1,69
+40950812,5/11/2016,0.83,F,8,Downtown,Shared room,1,2,1,79
+40961021,3/30/2015,0.92,F,682,Downtown,Entire home/apt,3,2,1,294
+40988436,12/6/2016,0.9,T,9,Takoma,Private room,1,1,75,57
+41024183,3/30/2015,0.92,F,682,Downtown,Entire home/apt,3,2,1,294
+41298255,3/23/2018,0.79,F,1,Dupont Circle,Entire home/apt,2,1,1,200
+41325296,11/16/2011,0.93,F,8,Petworth,Entire home/apt,3,1,31,100
+41342070,7/18/2016,1,T,2,Capitol Hill,Entire home/apt,3,2,3,196
+41377434,4/12/2014,0.96,T,1,Capitol Hill,Entire home/apt,4,2,5,102
+41498029,7/6/2015,0.72,F,1,Georgetown,Entire home/apt,4,3,31,130
+41528513,2/26/2017,1,T,2,Dupont Circle,Entire home/apt,4,1,31,92
+41612888,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,4,2,31,143
+41642040,3/24/2017,1,F,1341,Petworth,Entire home/apt,8,4,31,202
+41656697,11/3/2015,1,T,1,Capitol Hill,Entire home/apt,3,2,2,155
+41715029,2/15/2011,1,F,2,Petworth,Entire home/apt,2,1,31,70
+41738460,11/4/2014,0.75,F,3,Petworth,Entire home/apt,3,1,31,70
+41760756,3/11/2016,1,F,5,Petworth,Private room,1,1,31,67
+41802165,8/20/2016,0.97,T,1,Petworth,Entire home/apt,2,1,3,88
+41833840,11/10/2015,0.93,F,8,Georgetown,Entire home/apt,3,2,7,177
+41875412,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,214
+41876638,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,171
+41903285,4/18/2015,0.78,F,7,Takoma,Entire home/apt,6,5,30,289
+41929080,10/15/2015,0.99,T,250,Capitol Hill,Entire home/apt,4,1,31,175
+41983676,11/15/2012,1,T,6,Petworth,Entire home/apt,4,1,3,111
+41993096,12/11/2019,1,F,7,Downtown,Private room,2,1,1,239
+42016076,9/17/2013,1,T,1,Dupont Circle,Entire home/apt,4,2,4,189
+42033815,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,161
+42037592,9/10/2013,0.95,T,1,Capitol Hill,Entire home/apt,2,1,2,118
+42046602,10/28/2013,0.98,T,2,Capitol Hill,Entire home/apt,6,2,1,235
+42068276,7/14/2016,1,F,1,Petworth,Entire home/apt,7,4,4,400
+42090210,6/14/2016,0.96,T,1,Capitol Hill,Entire home/apt,3,2,2,157
+42163212,4/15/2014,0.98,T,1,Takoma,Entire home/apt,3,2,31,150
+42179779,7/10/2017,0.63,F,1,Bellevue,Entire home/apt,6,2,3,300
+42222012,3/30/2015,0.92,F,682,Downtown,Entire home/apt,5,2,1,364
+42270572,11/16/2011,0.93,F,8,Petworth,Private room,3,2,31,120
+42316829,2/15/2020,1,F,4,Petworth,Entire home/apt,2,1,7,75
+42318051,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,6,3,31,301
+42388653,10/12/2017,NA,F,1,Takoma,Entire home/apt,2,1,31,85
+42459578,12/19/2015,1,T,1,Capitol Hill,Entire home/apt,4,2,3,185
+42518842,2/24/2020,0.94,T,5,Downtown,Entire home/apt,4,2,3,400
+42559665,2/26/2020,0.92,T,1,Petworth,Private room,4,2,2,73
+42588777,9/18/2016,0.98,F,2,Petworth,Entire home/apt,2,1,1,70
+42619320,8/14/2011,0.84,F,1,Petworth,Entire home/apt,2,2,7,64
+42620250,11/20/2013,1,T,1,Petworth,Entire home/apt,4,2,1,99
+42768807,2/16/2015,1,T,5,Capitol Hill,Entire home/apt,4,2,31,126
+42776834,2/6/2015,0.92,F,10,Georgetown,Entire home/apt,7,5,2,283
+42791712,11/16/2011,0.93,F,8,Petworth,Entire home/apt,3,2,31,100
+42829620,3/16/2013,0.86,F,44,Dupont Circle,Entire home/apt,3,2,30,133
+42870950,6/17/2016,NA,F,1,Georgetown,Entire home/apt,3,1,31,100
+42929391,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,88
+42941476,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,333
+42964787,6/26/2014,NA,F,2,Downtown,Private room,2,1,31,298
+43044374,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,6,3,1,128
+43059320,1/15/2015,1,T,1,Capitol Hill,Entire home/apt,2,1,2,112
+43082323,1/1/2020,0.74,F,17,Georgetown,Entire home/apt,7,5,1,249
+43104720,10/27/2017,NA,F,1,Petworth,Entire home/apt,4,2,31,200
+43124008,9/13/2019,0.25,F,387,Capitol Hill,Private room,1,1,91,55
+43157756,5/19/2016,0.97,F,2,Takoma,Entire home/apt,3,1,1,49
+43186270,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,2,153
+43186585,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,2,196
+43186713,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,2,167
+43186909,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,6,3,2,232
+43188285,12/16/2016,0.97,F,4369,Dupont Circle,Entire home/apt,2,1,32,216
+43375153,1/4/2014,1,F,2,Georgetown,Entire home/apt,2,2,31,119
+43465858,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,4,2,4,128
+43478560,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,232
+43479699,5/18/2020,1,T,1,Capitol Hill,Entire home/apt,6,3,31,94
+43481170,3/3/2016,0,F,1,Dupont Circle,Entire home/apt,2,1,31,150
+43534310,6/2/2016,0.86,T,1,Fort McNair,Entire home/apt,6,3,3,316
+43564400,2/4/2015,1,T,2,Dupont Circle,Entire home/apt,2,1,15,164
+43676822,6/19/2019,0.99,F,11,Dupont Circle,Entire home/apt,2,1,1,125
+43676905,6/19/2019,0.99,F,11,Dupont Circle,Entire home/apt,2,1,1,151
+43750294,6/14/2019,0.83,F,10,Dupont Circle,Private room,4,2,31,366
+43767651,3/6/2018,1,T,14,Dupont Circle,Entire home/apt,2,1,1,264
+43767660,3/6/2018,1,T,14,Dupont Circle,Entire home/apt,4,2,1,308
+43770692,8/10/2011,1,T,2,Fort McNair,Entire home/apt,6,2,31,161
+43845709,8/8/2012,0,F,1,Takoma,Private room,1,1,1,45
+43868902,4/12/2018,0.91,T,1,Capitol Hill,Entire home/apt,4,2,3,113
+43884836,5/10/2013,0.83,F,1,Capitol Hill,Entire home/apt,4,2,1,180
+43888344,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,164
+43923337,9/23/2015,0.99,F,18,Takoma,Entire home/apt,5,3,31,89
+43939342,6/5/2013,0.98,T,2,Petworth,Entire home/apt,4,2,1,85
+43982311,3/8/2015,1,T,2,Capitol Hill,Entire home/apt,2,1,14,93
+44004664,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,5,3,31,267
+44088653,12/6/2016,0.9,T,9,Takoma,Private room,1,1,75,50
+44119414,11/3/2017,1,F,2,Bellevue,Entire home/apt,2,1,31,70
+44134766,9/28/2011,0.6,F,3,Capitol Hill,Entire home/apt,4,3,10,200
+44138643,5/23/2014,NA,F,4,Petworth,Private room,2,1,31,37
+44206370,8/28/2012,1,T,2,Capitol Hill,Entire home/apt,2,1,1,142
+44207611,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,93
+44207617,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,98
+44211888,1/9/2013,0.58,T,22,Capitol Hill,Entire home/apt,6,3,31,160
+44433757,6/26/2015,1,F,1,Capitol Hill,Entire home/apt,2,2,31,99
+44444193,3/17/2015,0.74,T,2,Takoma,Entire home/apt,4,1,2,110
+44472965,7/5/2013,0.6,F,1,Petworth,Entire home/apt,2,1,31,120
+44521751,5/17/2012,0.6,F,2,Dupont Circle,Private room,2,1,31,86
+44533310,11/21/2013,0.91,T,1,Capitol Hill,Entire home/apt,2,1,30,105
+44559749,8/4/2020,0.92,T,1,Capitol Hill,Entire home/apt,2,1,2,103
+44597062,3/8/2014,0.88,T,26,Dupont Circle,Entire home/apt,3,2,31,140
+44678950,2/7/2013,0.74,T,8,Takoma,Entire home/apt,6,3,4,300
+44832737,4/17/2014,NA,F,5,Capitol Hill,Entire home/apt,10,6,31,450
+44995788,12/12/2014,1,F,1,Dupont Circle,Entire home/apt,9,3,31,325
+44998059,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,5,3,2,322
+45076792,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,8,5,1,152
+45076831,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,6,3,1,108
+45118225,8/21/2011,0.98,T,2,Capitol Hill,Entire home/apt,4,2,31,300
+45125944,7/17/2014,0.8,T,1,Bellevue,Entire home/apt,6,3,31,188
+45128554,8/26/2020,0.92,F,2,Bellevue,Entire home/apt,3,1,3,69
+45177682,2/8/2018,0.95,T,1,Capitol Hill,Entire home/apt,4,2,3,70
+45187699,6/21/2013,0.96,T,3,Petworth,Entire home/apt,6,6,31,135
+45223908,6/26/2011,0,F,2,Takoma,Entire home/apt,3,2,31,103
+45385834,6/9/2014,0.99,T,5,Petworth,Entire home/apt,3,1,1,107
+45436298,8/8/2014,1,T,2,Petworth,Entire home/apt,4,2,4,79
+45450156,5/6/2018,0.97,T,4,Dupont Circle,Entire home/apt,4,1,2,125
+45495027,11/14/2019,1,F,4,Capitol Hill,Shared room,1,6,1,54
+45495668,6/15/2015,0.95,T,2,Petworth,Private room,1,1,2,89
+45512221,10/19/2015,1,F,1,Georgetown,Private room,2,1,1,85
+45516768,8/8/2019,0.95,T,2,Takoma,Entire home/apt,2,1,3,89
+45610031,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,1,31,60
+45623851,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,4,2,2,237
+45657024,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,142
+45669735,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,142
+45670073,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,6,3,31,176
+45670909,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,6,3,31,123
+45671786,1/6/2016,1,T,18,Capitol Hill,Entire home/apt,4,2,31,128
+45672392,1/6/2016,1,T,18,Capitol Hill,Entire home/apt,4,1,31,117
+45672873,1/6/2016,1,T,18,Capitol Hill,Entire home/apt,4,2,31,145
+45673093,1/6/2016,1,T,18,Capitol Hill,Entire home/apt,2,1,31,132
+45698732,6/11/2014,0.96,F,147,Fort McNair,Entire home/apt,5,2,3,392
+45698889,6/11/2014,0.96,F,147,Fort McNair,Entire home/apt,3,1,3,220
+45699176,6/11/2014,0.96,F,147,Fort McNair,Entire home/apt,5,2,3,353
+45719672,5/5/2018,1,T,2,Capitol Hill,Entire home/apt,1,1,31,64
+45726862,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,3,2,31,197
+45756100,10/6/2020,0.99,T,1,Capitol Hill,Entire home/apt,6,4,3,269
+45766087,1/25/2013,0.74,T,2,Dupont Circle,Entire home/apt,3,2,31,200
+45865942,10/13/2020,0.91,T,1,Capitol Hill,Entire home/apt,2,1,2,143
+45877546,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,256
+45898477,3/15/2019,1,T,2,Dupont Circle,Entire home/apt,4,3,2,155
+45909623,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,6,5,1,300
+45938605,12/31/2019,1,T,1,Dupont Circle,Entire home/apt,3,3,31,60
+45941532,11/3/2014,0.87,T,1,Takoma,Entire home/apt,4,2,2,121
+45959030,10/13/2016,0.75,F,2,Petworth,Entire home/apt,6,3,5,299
+45964641,3/15/2012,0.77,T,1,Petworth,Entire home/apt,2,1,4,99
+45973079,2/20/2020,0.67,F,1,Petworth,Entire home/apt,2,1,5,85
+46006215,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,4,2,4,132
+46044562,11/16/2019,0.4,F,1,Petworth,Entire home/apt,3,2,31,86
+46048362,4/23/2019,0.99,T,8,Capitol Hill,Entire home/apt,5,5,1,186
+46049581,4/23/2019,0.99,T,8,Capitol Hill,Entire home/apt,3,2,1,179
+46049801,4/23/2019,0.99,T,8,Capitol Hill,Entire home/apt,3,2,1,173
+46049905,4/23/2019,0.99,T,8,Capitol Hill,Entire home/apt,5,5,1,179
+46106600,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,1,31,70
+46120474,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,1,31,68
+46138649,11/15/2019,1,F,5,Takoma,Entire home/apt,10,6,31,509
+46141540,12/6/2016,0.9,T,9,Takoma,Entire home/apt,5,4,32,190
+46193587,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,5,3,31,123
+46376464,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,88
+46376799,7/22/2013,0.66,F,200,Dupont Circle,Entire home/apt,4,1,31,116
+46377775,8/6/2014,0.4,F,4,Petworth,Entire home/apt,2,1,3,160
+46407965,9/6/2019,0.95,F,4,Bellevue,Entire home/apt,5,3,4,143
+46419132,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,123
+46419136,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,5,3,30,137
+46419150,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,6,3,30,147
+46419342,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,6,3,30,123
+46435428,10/13/2014,0.98,T,6,Capitol Hill,Entire home/apt,4,3,1,195
+46451071,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,164
+46451073,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,108
+46451085,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,108
+46453457,10/13/2014,0.98,T,6,Capitol Hill,Entire home/apt,2,1,1,113
+46470715,7/22/2013,0.66,F,200,Georgetown,Entire home/apt,2,1,31,103
+46472704,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,87
+46472708,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,2,31,115
+46472709,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,88
+46472744,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,103
+46487882,7/22/2013,0.66,F,200,Dupont Circle,Entire home/apt,5,2,31,145
+46488085,11/7/2011,1,F,1,Georgetown,Entire home/apt,4,2,31,110
+46488187,7/22/2013,0.66,F,200,Dupont Circle,Entire home/apt,2,1,31,109
+46507680,9/29/2015,0.99,T,2,Capitol Hill,Entire home/apt,4,2,2,247
+46513626,2/10/2016,1,T,1,Capitol Hill,Entire home/apt,5,3,3,750
+46529527,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,3,2,1,104
+46529906,11/1/2015,0.5,F,1,Dupont Circle,Entire home/apt,4,1,31,300
+46530944,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,2,1,90,62
+46546172,3/14/2012,0.89,T,3,Dupont Circle,Entire home/apt,4,2,31,101
+46551522,10/13/2014,0.98,T,6,Capitol Hill,Entire home/apt,6,5,1,209
+46598276,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,239
+46602569,2/15/2015,1,T,3,Bellevue,Private room,2,1,1,119
+46628220,3/8/2016,NA,F,1,Dupont Circle,Entire home/apt,4,2,31,95
+46646458,1/9/2013,1,F,2,Capitol Hill,Entire home/apt,2,1,2,140
+46694180,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,196
+46696105,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,203
+46696132,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,273
+46731252,11/3/2016,0.93,T,2,Capitol Hill,Private room,2,1,4,97
+46731443,11/30/2020,0.97,T,1,Georgetown,Entire home/apt,5,3,2,174
+46751246,7/11/2016,0.87,F,1,Bellevue,Entire home/apt,3,2,1,75
+46813754,2/13/2014,0.95,T,2,Petworth,Entire home/apt,2,1,2,80
+46819326,2/27/2016,1,F,1,Dupont Circle,Entire home/apt,4,2,60,99
+46835835,4/24/2012,0.96,T,1,Capitol Hill,Entire home/apt,2,1,4,135
+46861924,6/3/2017,1,T,7,Dupont Circle,Entire home/apt,2,1,31,112
+46875064,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,188
+46902119,7/29/2015,0.99,F,253,Fort McNair,Entire home/apt,2,1,31,95
+46922014,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,2,1,90,62
+46922207,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,3,1,90,68
+46923319,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,3,1,90,75
+47031108,5/14/2018,0.97,F,4,Capitol Hill,Entire home/apt,4,4,2,167
+47043132,11/25/2020,0.92,F,4,Capitol Hill,Entire home/apt,8,4,31,350
+47052036,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,3,1,31,123
+47052488,7/22/2013,0.66,F,200,Dupont Circle,Entire home/apt,2,1,31,110
+47134889,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,2,2,31,236
+47160427,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,178
+47160436,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,96
+47196432,9/23/2016,0.95,F,1,Petworth,Entire home/apt,4,2,3,95
+47200180,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,5,2,31,164
+47217640,12/23/2020,0.98,F,1,Bellevue,Entire home/apt,5,3,3,125
+47230845,12/24/2020,NA,F,1,Downtown,Entire home/apt,4,3,31,95
+47235306,7/12/2015,0.82,F,14,Bellevue,Private room,1,2,31,44
+47236322,10/17/2012,0.94,T,1,Capitol Hill,Entire home/apt,4,2,2,125
+47236883,7/12/2015,0.82,F,14,Bellevue,Private room,1,2,31,45
+47273654,9/8/2015,0.57,F,6,Takoma,Entire home/apt,12,4,3,225
+47286904,8/24/2015,0.94,F,1,Capitol Hill,Entire home/apt,3,3,2,185
+47312241,2/10/2015,NA,F,1,Georgetown,Entire home/apt,4,2,365,198
+47317342,7/2/2016,1,T,36,Takoma,Entire home/apt,14,5,4,348
+47336176,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,2,1,31,100
+47338049,9/20/2014,1,F,17,Georgetown,Entire home/apt,6,3,1,158
+47338844,3/29/2018,0.99,F,307,Capitol Hill,Entire home/apt,3,1,31,116
+47395441,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,4,2,4,132
+47407322,6/6/2014,0.96,T,1,Petworth,Entire home/apt,4,2,2,134
+47419272,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,3,1,90,67
+47419943,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,3,1,90,70
+47422629,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,80
+47498455,1/6/2021,0.95,T,1,Petworth,Entire home/apt,2,1,1,55
+47548579,7/15/2017,1,F,1,Petworth,Entire home/apt,2,1,60,95
+47581775,1/28/2015,0.79,F,4,Bellevue,Entire home/apt,4,3,31,60
+47584906,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,4,2,2,270
+47585920,2/1/2017,0.99,F,24,Fort McNair,Entire home/apt,2,1,1,144
+47586278,6/28/2012,0.43,F,3,Petworth,Entire home/apt,4,2,32,95
+47770369,12/27/2021,NA,F,36,Petworth,Private room,2,1,2,72
+47817350,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,2,1,90,62
+47852874,3/10/2013,1,T,1,Capitol Hill,Entire home/apt,3,1,31,118
+47871334,7/28/2015,1,T,1,Petworth,Entire home/apt,7,4,1,105
+47893202,12/30/2015,1,F,35,Dupont Circle,Entire home/apt,2,1,31,99
+47907049,1/25/2021,0.93,F,1,Dupont Circle,Entire home/apt,3,2,2,102
+47962755,1/30/2021,1,T,7,Dupont Circle,Entire home/apt,2,1,31,73
+47965462,6/25/2013,0.95,F,14,Bellevue,Entire home/apt,4,2,31,200
+47991451,3/29/2018,0.99,F,307,Capitol Hill,Entire home/apt,2,1,31,124
+47992072,9/20/2014,1,F,17,Georgetown,Entire home/apt,3,2,1,81
+47997474,8/13/2013,0.98,F,175,Georgetown,Entire home/apt,9,4,10,490
+48080819,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,93
+48179886,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,3,1,4,133
+48228623,12/18/2020,0.88,F,2,Bellevue,Entire home/apt,4,2,2,121
+48279239,2/22/2021,0.53,F,1,Capitol Hill,Entire home/apt,4,1,31,185
+48300551,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,3,2,31,112
+48357860,9/13/2019,0.25,F,387,Capitol Hill,Private room,1,1,91,42
+48359588,2/27/2021,0.97,T,4,Capitol Hill,Entire home/apt,6,5,32,322
+48381544,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,173
+48383542,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,6,3,2,196
+48392294,7/12/2016,1,F,1,Petworth,Entire home/apt,4,1,31,99
+48401930,3/1/2021,1,F,2,Bellevue,Entire home/apt,4,1,31,75
+48402694,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,181
+48427765,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,170
+48559754,8/15/2017,1,F,4,Bellevue,Entire home/apt,2,1,31,100
+48560292,8/15/2017,1,F,4,Bellevue,Entire home/apt,4,2,31,200
+48560431,8/15/2017,1,F,4,Bellevue,Entire home/apt,2,1,31,78
+48572292,10/8/2013,0.98,F,8,Georgetown,Entire home/apt,4,3,4,250
+48572918,8/6/2018,0.97,T,2,Capitol Hill,Entire home/apt,3,1,31,88
+48580092,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,29
+48581101,1/18/2010,0.99,F,28,Georgetown,Entire home/apt,6,2,2,271
+48581104,1/18/2010,0.99,F,28,Georgetown,Entire home/apt,6,2,2,207
+48587381,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,2,1,90,62
+48603452,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,1,31,98
+48628613,3/11/2021,0.98,F,10,Dupont Circle,Entire home/apt,3,1,1,180
+48628618,3/11/2021,0.98,F,10,Dupont Circle,Entire home/apt,2,1,1,182
+48628620,3/11/2021,0.98,F,10,Dupont Circle,Entire home/apt,3,1,1,197
+48628626,3/11/2021,0.98,F,10,Dupont Circle,Entire home/apt,3,1,1,192
+48628629,3/11/2021,0.98,F,10,Dupont Circle,Entire home/apt,3,2,1,206
+48645863,3/10/2021,1,T,2,Dupont Circle,Entire home/apt,2,1,31,70
+48646500,3/10/2021,1,T,2,Dupont Circle,Entire home/apt,2,1,31,70
+48679512,3/15/2021,0.99,F,1,Capitol Hill,Entire home/apt,5,2,2,160
+48697906,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,1,31,65
+48710238,7/17/2014,0.98,F,3,Dupont Circle,Private room,2,1,3,89
+48713100,3/11/2021,1,T,7,Dupont Circle,Private room,3,1,1,358
+48751212,3/11/2021,1,T,7,Dupont Circle,Private room,4,2,1,379
+48751404,3/11/2021,1,T,7,Dupont Circle,Private room,3,1,31,308
+48751624,3/11/2021,1,T,7,Dupont Circle,Private room,3,1,31,330
+48751742,3/11/2021,1,T,7,Dupont Circle,Private room,4,2,31,336
+48757013,3/19/2021,0.88,F,1,Petworth,Entire home/apt,6,3,31,155
+48769123,3/8/2014,0.96,T,2,Takoma,Entire home/apt,2,2,2,60
+48832169,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,136
+48841313,12/9/2013,0.99,F,5,Petworth,Entire home/apt,6,4,1,125
+48862420,7/22/2013,0.66,F,200,Dupont Circle,Entire home/apt,2,1,31,120
+48885672,3/12/2021,1,T,1,Georgetown,Entire home/apt,5,2,14,130
+48901549,10/12/2019,0.91,F,1,Petworth,Entire home/apt,4,2,2,84
+48906105,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,33
+48918367,3/28/2021,1,T,1,Petworth,Entire home/apt,4,2,2,94
+48940186,1/30/2021,1,T,7,Dupont Circle,Entire home/apt,6,4,2,263
+48948711,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,4,2,32,229
+48973758,7/29/2015,0.99,F,253,Dupont Circle,Private room,2,1,31,103
+49013551,10/18/2019,0.79,F,5,Capitol Hill,Private room,1,1,31,45
+49068761,10/11/2012,0.96,F,2,Petworth,Entire home/apt,3,2,2,95
+49089210,4/7/2021,0.93,F,9,Capitol Hill,Entire home/apt,4,1,3,118
+49158679,5/29/2018,1,F,1,Petworth,Entire home/apt,3,2,6,80
+49183172,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,6,3,4,221
+49215258,10/3/2015,0.99,T,9,Capitol Hill,Entire home/apt,6,4,2,300
+49230094,4/21/2016,1,T,4,Bellevue,Entire home/apt,10,5,2,226
+49254491,3/25/2013,0.98,F,7013,Downtown,Private room,12,6,2,677
+49254492,3/25/2013,0.98,F,7013,Downtown,Private room,2,1,2,198
+49254493,3/25/2013,0.98,F,7013,Downtown,Private room,8,4,2,452
+49287074,2/28/2016,0.99,T,3,Georgetown,Entire home/apt,6,4,1,242
+49359514,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,2,1,90,68
+49362172,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,283
+49371148,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,364
+49400352,10/13/2019,0,F,1,Bellevue,Private room,1,1,31,100
+49400577,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,4,2,4,172
+49423253,5/2/2021,NA,F,2,Bellevue,Entire home/apt,4,2,2,55
+49424718,2/22/2016,1,T,1,Capitol Hill,Entire home/apt,4,2,2,172
+49425315,7/29/2015,0.99,F,253,Downtown,Entire home/apt,4,2,31,100
+49425657,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,5,3,31,294
+49425663,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,5,2,31,268
+49425664,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,3,2,31,167
+49480922,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,150
+49509893,8/2/2016,1,F,1,Dupont Circle,Entire home/apt,2,1,3,146
+49516381,12/19/2017,0.77,F,201,Downtown,Entire home/apt,3,2,31,339
+49517470,6/13/2019,1,F,10,Capitol Hill,Private room,2,1,31,335
+49517485,12/19/2017,0.77,F,201,Downtown,Entire home/apt,5,2,31,426
+49517759,6/13/2019,1,F,10,Capitol Hill,Private room,2,1,31,352
+49550796,3/17/2014,1,F,3,Dupont Circle,Entire home/apt,2,1,2,148
+49550853,6/8/2020,1,F,9,Downtown,Entire home/apt,6,3,1,136
+49568217,3/19/2015,1,T,1,Petworth,Entire home/apt,3,2,2,114
+49571052,10/16/2014,0.99,T,4,Dupont Circle,Entire home/apt,5,3,1,230
+49589230,12/19/2017,0.77,F,201,Downtown,Entire home/apt,5,2,31,426
+49615874,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,5,3,31,127
+49634767,7/22/2016,0.98,T,4,Bellevue,Entire home/apt,5,2,1,87
+49638218,6/8/2015,0.98,T,1,Dupont Circle,Entire home/apt,2,2,1,131
+49656082,7/22/2016,0.98,T,4,Bellevue,Entire home/apt,3,2,3,125
+49670688,1/18/2015,0.99,T,1,Dupont Circle,Entire home/apt,5,3,1,219
+49671219,10/18/2019,0.79,F,5,Capitol Hill,Private room,1,1,31,43
+49675441,2/25/2012,0.99,T,1,Petworth,Entire home/apt,6,3,2,125
+49692169,11/6/2015,NA,T,1,Georgetown,Entire home/apt,6,4,31,238
+49692835,5/9/2021,0.99,T,3,Georgetown,Private room,2,2,2,61
+49710453,5/10/2021,0.97,T,1,Dupont Circle,Entire home/apt,3,1,2,201
+49739157,12/30/2015,1,F,35,Dupont Circle,Entire home/apt,2,1,31,70
+49760565,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,208
+49838391,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,5,3,31,316
+49847814,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,157
+49929890,12/6/2017,1,T,1,Capitol Hill,Entire home/apt,3,1,1,113
+49942452,8/18/2020,NA,F,4,Fort McNair,Entire home/apt,3,1,2,203
+50011224,8/11/2014,0.97,T,6,Petworth,Entire home/apt,5,3,31,350
+50034127,8/11/2014,0.97,T,6,Petworth,Entire home/apt,5,3,31,350
+50064134,7/22/2013,0.66,F,200,Dupont Circle,Entire home/apt,3,1,31,121
+50092809,9/20/2014,1,F,17,Georgetown,Entire home/apt,4,2,1,142
+50105281,2/29/2020,1,F,1,Bellevue,Entire home/apt,4,1,31,70
+50113467,5/28/2021,1,F,3,Petworth,Private room,2,1,2,55
+50117482,6/8/2020,1,F,9,Downtown,Entire home/apt,4,1,1,145
+50136137,10/17/2014,0.79,T,4,Petworth,Entire home/apt,2,1,2,99
+50151261,6/24/2015,0.97,T,2,Bellevue,Entire home/apt,6,2,3,198
+50181024,1/27/2018,0.99,F,15,Capitol Hill,Entire home/apt,4,2,4,153
+50189233,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,3,31,243
+50189968,4/3/2016,0.99,T,1,Dupont Circle,Entire home/apt,4,2,1,174
+50189970,7/22/2013,0.66,F,200,Dupont Circle,Entire home/apt,3,1,31,126
+50194682,10/16/2011,1,T,1,Takoma,Entire home/apt,2,1,2,86
+50244048,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,3,1,90,74
+50290563,4/30/2014,0.99,F,5,Petworth,Entire home/apt,5,3,31,88
+50303269,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,2,31,70
+50329912,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,5,3,2,291
+50337835,5/28/2021,1,F,3,Petworth,Private room,1,1,2,50
+50337849,5/28/2021,1,F,3,Petworth,Private room,2,1,2,55
+50356121,1/21/2018,1,T,3,Downtown,Entire home/apt,4,2,3,111
+50359924,9/29/2014,0.96,T,9,Takoma,Entire home/apt,7,4,31,116
+50364056,4/3/2018,NA,F,4,Takoma,Entire home/apt,4,2,31,189
+50394268,10/15/2015,0.99,T,250,Petworth,Entire home/apt,5,3,2,90
+50417461,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,99
+50433453,6/17/2013,0.91,T,2,Capitol Hill,Entire home/apt,3,1,3,190
+50470028,12/30/2015,1,F,35,Dupont Circle,Entire home/apt,2,1,31,99
+50499105,11/26/2012,0.99,T,5,Georgetown,Private room,1,1,2,57
+50501236,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,149
+50525956,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,112
+50532184,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,3,2,31,167
+50532540,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,2,2,31,134
+50541881,5/4/2015,0.98,F,1,Downtown,Entire home/apt,3,1,31,126
+50545033,11/26/2012,0.99,T,5,Georgetown,Private room,1,1,2,67
+50592554,7/25/2018,1,F,3,Dupont Circle,Entire home/apt,2,1,2,148
+50593806,6/23/2021,0.92,F,1,Downtown,Entire home/apt,4,2,31,140
+50613169,1/5/2014,1,T,3,Petworth,Entire home/apt,6,3,4,499
+50617993,10/11/2012,0.96,F,2,Petworth,Entire home/apt,7,4,3,180
+50651642,6/4/2011,1,T,3,Petworth,Entire home/apt,4,2,2,111
+50676685,12/23/2014,0.99,F,1141,Downtown,Private room,2,1,1,198
+50676686,12/23/2014,0.99,F,1141,Downtown,Private room,4,2,1,226
+50694792,8/29/2013,0.93,F,2,Capitol Hill,Entire home/apt,6,3,1,324
+50733128,4/6/2018,1,F,11,Dupont Circle,Entire home/apt,4,2,31,105
+50804612,12/27/2021,NA,F,36,Petworth,Private room,2,1,1,59
+50844635,7/5/2021,0.77,F,1,Dupont Circle,Entire home/apt,4,2,31,149
+50849495,7/5/2021,0,F,1,Takoma,Entire home/apt,6,4,14,250
+50875772,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,8,4,2,595
+50875966,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,9,4,2,929
+50903143,5/5/2016,0.89,T,2,Capitol Hill,Entire home/apt,4,2,31,100
+50935433,3/16/2012,1,T,1,Capitol Hill,Entire home/apt,4,2,3,151
+50973274,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,2,1,90,57
+51061718,11/10/2015,0.93,F,8,Georgetown,Entire home/apt,2,1,77,127
+51085180,4/6/2018,1,F,11,Dupont Circle,Entire home/apt,2,1,31,101
+51092606,7/16/2021,0.96,F,1,Fort McNair,Entire home/apt,3,1,1,150
+51121876,6/14/2016,1,T,1,Downtown,Entire home/apt,4,2,2,159
+51123061,11/19/2020,0.59,F,42,Georgetown,Entire home/apt,3,1,90,64
+51167738,7/22/2013,0.66,F,200,Capitol Hill,Entire home/apt,3,1,31,108
+51170066,7/7/2018,0.94,F,2,Capitol Hill,Entire home/apt,4,2,2,120
+51184413,12/27/2021,NA,F,36,Petworth,Private room,2,1,2,72
+51186392,7/22/2013,0.66,F,200,Fort McNair,Entire home/apt,4,2,31,201
+51186640,7/22/2013,0.66,F,200,Dupont Circle,Entire home/apt,3,1,31,104
+51265806,4/7/2017,0.86,F,17,Bellevue,Private room,8,6,4,115
+51280194,5/14/2014,1,F,4,Capitol Hill,Entire home/apt,2,1,31,120
+51310221,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,1,31,95
+51323093,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,4,2,31,104
+51328356,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,2,1,31,87
+51349311,2/26/2014,0.73,F,1,Petworth,Entire home/apt,2,1,2,107
+51350578,6/17/2015,0.99,F,39,Petworth,Private room,2,1,2,55
+51434786,9/18/2016,0.98,F,2,Petworth,Entire home/apt,5,3,2,119
+51471279,5/16/2021,0.95,F,1,Fort McNair,Entire home/apt,3,1,31,214
+51487377,8/3/2020,0.95,F,5,Bellevue,Entire home/apt,9,5,7,279
+51510888,2/24/2014,1,F,10,Takoma,Private room,3,2,31,69
+51519661,11/21/2016,0.93,T,2,Bellevue,Entire home/apt,5,2,31,224
+51542353,2/12/2020,0.99,T,1,Capitol Hill,Entire home/apt,6,3,2,289
+51599456,8/14/2020,0.92,F,1,Capitol Hill,Entire home/apt,4,2,31,271
+51625092,3/24/2017,1,F,1341,Takoma,Entire home/apt,7,3,31,173
+51652582,5/11/2015,1,T,23,Capitol Hill,Entire home/apt,4,2,31,139
+51666017,8/27/2019,1,F,1,Petworth,Entire home/apt,3,1,31,115
+51667347,5/14/2012,0.99,T,4,Georgetown,Entire home/apt,2,1,2,96
+51684448,8/9/2011,0.93,T,1,Petworth,Entire home/apt,2,1,2,149
+51734603,2/7/2016,0.94,F,3,Bellevue,Entire home/apt,4,3,3,126
+51773784,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,108
+51818199,10/15/2018,0.96,F,2,Capitol Hill,Entire home/apt,2,1,2,119
+51830606,7/21/2015,0.73,F,9,Petworth,Entire home/apt,4,1,31,225
+51887022,3/12/2014,1,T,1,Takoma,Entire home/apt,2,1,2,120
+51922422,10/15/2015,0.99,T,250,Dupont Circle,Entire home/apt,8,5,2,325
+51987458,8/13/2013,0.98,F,175,Dupont Circle,Entire home/apt,6,3,7,518
+51987731,8/13/2013,0.98,F,175,Dupont Circle,Entire home/apt,6,3,7,323
+51988092,6/11/2012,0.97,T,1,Petworth,Entire home/apt,4,2,3,155
+51999241,8/20/2020,0.98,F,2,Fort McNair,Entire home/apt,3,1,2,176
+52001607,9/1/2021,0.95,T,1,Capitol Hill,Entire home/apt,4,3,3,150
+52003587,8/21/2016,1,T,1,Capitol Hill,Entire home/apt,4,2,2,296
+52056320,3/25/2013,0.98,F,7013,Downtown,Private room,2,1,2,198
+52056321,3/25/2013,0.98,F,7013,Downtown,Private room,2,1,2,198
+52069671,5/16/2011,0.95,T,1,Capitol Hill,Entire home/apt,2,1,1,75
+52074773,5/9/2021,0.99,T,3,Georgetown,Private room,2,1,1,70
+52094333,8/6/2020,0.99,T,8,Bellevue,Entire home/apt,2,1,1,88
+52184484,5/29/2018,1,F,2,Fort McNair,Entire home/apt,2,1,31,150
+52188587,5/18/2009,0.96,F,158,Georgetown,Entire home/apt,4,2,31,183
+52191819,7/25/2011,0.95,T,2,Petworth,Entire home/apt,4,3,2,200
+52201387,5/11/2015,1,T,23,Capitol Hill,Entire home/apt,6,4,31,259
+52239871,10/8/2018,0.99,F,83,Dupont Circle,Private room,2,1,2,253
+52239878,10/8/2018,0.99,F,83,Dupont Circle,Private room,2,1,2,175
+52240404,10/8/2018,0.99,F,83,Dupont Circle,Private room,2,1,2,125
+52240462,10/8/2018,0.99,F,83,Dupont Circle,Private room,2,1,2,262
+52240980,10/8/2018,0.99,F,83,Dupont Circle,Private room,2,1,2,256
+52242602,10/8/2018,0.99,F,83,Dupont Circle,Private room,2,1,2,229
+52254673,9/6/2021,1,F,6,Downtown,Private room,2,1,1,326
+52254738,9/6/2021,1,F,6,Downtown,Private room,2,1,1,326
+52255241,9/6/2021,1,F,6,Downtown,Private room,2,1,1,298
+52269279,6/15/2015,0.95,T,2,Petworth,Private room,1,1,3,79
+52311335,2/7/2016,0.94,F,3,Bellevue,Entire home/apt,3,2,3,102
+52311703,2/7/2016,0.94,F,3,Bellevue,Entire home/apt,4,3,4,119
+52356204,5/19/2021,0.97,F,4,Petworth,Entire home/apt,2,1,31,87
+52366167,8/3/2020,0.95,F,5,Bellevue,Entire home/apt,7,5,2,329
+52382433,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,5,2,2,244
+52382504,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,3,1,1,163
+52382557,4/6/2011,0.99,T,138,Georgetown,Entire home/apt,7,3,2,334
+52407058,5/11/2016,0.75,T,8,Capitol Hill,Entire home/apt,4,2,3,500
+52496361,10/8/2015,1,T,2,Dupont Circle,Entire home/apt,2,1,2,147
+52548082,1/22/2015,1,T,1,Dupont Circle,Entire home/apt,6,3,31,135
+52598337,5/12/2016,0.77,F,1,Dupont Circle,Entire home/apt,2,1,31,139
+52611694,12/31/2019,0.97,T,1,Petworth,Entire home/apt,2,1,1,81
+52652080,5/19/2021,0.97,F,4,Takoma,Entire home/apt,2,1,31,84
+52652509,10/6/2021,0.84,F,1,Fort McNair,Entire home/apt,6,3,2,230
+52687574,7/29/2021,0.91,F,195,Downtown,Private room,2,1,1,222
+52754210,12/27/2014,1,F,2,Capitol Hill,Entire home/apt,4,2,1,85
+52778681,9/30/2014,NA,F,1,Capitol Hill,Entire home/apt,2,1,1,129
+52797260,6/18/2019,0.65,F,1,Bellevue,Private room,1,1,1,45
+52802036,10/4/2021,0.99,T,1,Capitol Hill,Entire home/apt,4,1,1,120
+52857483,12/27/2021,NA,F,36,Bellevue,Private room,2,1,2,52
+52878311,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,88
+52898793,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,3,2,31,181
+52935936,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,2,1,31,288
+52939714,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,2,1,2,124
+52949076,5/16/2013,0.95,T,3,Capitol Hill,Entire home/apt,2,1,2,124
+52987235,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,2,1,2,120
+52991846,10/25/2021,0.93,T,4,Capitol Hill,Entire home/apt,2,1,2,147
+52992636,11/4/2020,0.94,T,1,Capitol Hill,Entire home/apt,3,1,2,90
+52994570,10/12/2021,0.97,F,4,Capitol Hill,Entire home/apt,5,2,31,120
+53013286,4/10/2019,0.9,F,1,Bellevue,Entire home/apt,4,2,2,98
+53049766,2/22/2016,0.9,T,1,Petworth,Entire home/apt,2,2,31,125
+53062687,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,3,2,31,119
+53066593,10/28/2021,0.75,F,4,Georgetown,Entire home/apt,4,1,31,116
+53067932,10/28/2021,1,F,2,Petworth,Entire home/apt,4,2,31,250
+53113172,10/23/2021,0.98,F,2,Petworth,Entire home/apt,13,6,1,761
+53145578,7/29/2015,0.99,F,253,Dupont Circle,Entire home/apt,4,2,31,175
+53150537,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,5,2,31,368
+53154583,7/13/2012,0.97,T,1,Capitol Hill,Entire home/apt,3,2,1,142
+53172204,5/14/2012,0.99,T,4,Georgetown,Entire home/apt,5,4,2,399
+53173706,10/15/2015,0.99,T,250,Capitol Hill,Entire home/apt,4,2,31,253
+53187754,10/25/2021,0.93,T,4,Capitol Hill,Entire home/apt,2,1,2,145
+53200199,12/6/2013,0.8,F,2,Georgetown,Private room,2,1,31,40
+53227047,10/9/2012,0.98,T,1,Capitol Hill,Entire home/apt,4,2,2,197
+53236856,7/22/2013,0.66,F,200,Capitol Hill,Entire home/apt,5,3,31,120
+53263770,9/3/2014,1,F,1,Bellevue,Private room,2,1,1,86
+53290703,6/20/2016,0.9,F,1,Georgetown,Entire home/apt,4,2,3,705
+53310452,7/22/2013,0.66,F,200,Capitol Hill,Entire home/apt,5,3,31,150
+53356279,9/18/2021,1,T,2,Capitol Hill,Entire home/apt,3,1,31,85
+53362379,4/6/2018,1,F,11,Dupont Circle,Entire home/apt,2,1,31,95
+53381237,7/22/2013,0.66,F,200,Capitol Hill,Entire home/apt,5,3,31,190
+53381582,7/22/2013,0.66,F,200,Capitol Hill,Entire home/apt,5,3,31,120
+53381911,7/22/2013,0.66,F,200,Capitol Hill,Entire home/apt,5,3,31,190
+53382164,7/22/2013,0.66,F,200,Capitol Hill,Entire home/apt,5,3,31,120
+53384508,4/23/2016,0.99,T,2,Takoma,Entire home/apt,12,4,3,157
+53413141,11/18/2021,0.98,T,1,Capitol Hill,Entire home/apt,4,2,2,144
+53426479,1/18/2010,0.99,F,28,Georgetown,Entire home/apt,6,2,2,197
+53455610,11/25/2008,1,T,3,Petworth,Entire home/apt,3,1,3,103
+53456921,7/5/2017,0.97,F,8,Fort McNair,Entire home/apt,7,4,2,380
+53509854,5/11/2016,0.75,T,8,Capitol Hill,Entire home/apt,4,3,5,325
+53556450,8/13/2013,0.98,F,175,Georgetown,Entire home/apt,12,6,10,503
+53557825,11/26/2021,1,T,1,Georgetown,Entire home/apt,3,2,2,126
+53559268,12/22/2016,0.96,F,1,Capitol Hill,Entire home/apt,5,3,2,235
+53570414,7/29/2015,0.99,F,253,Capitol Hill,Entire home/apt,4,2,31,255
+53654540,12/27/2021,NA,F,36,Petworth,Private room,2,1,1,56
+53657060,12/30/2014,1,T,1,Capitol Hill,Entire home/apt,4,2,2,125
+53699244,3/3/2013,0.99,T,5,Bellevue,Entire home/apt,2,1,1,73
+53702742,5/6/2015,1,F,3,Takoma,Private room,1,1,31,35
+53706076,9/21/2011,0.99,T,1,Petworth,Entire home/apt,4,2,3,109
+53739232,5/20/2015,0.98,T,1,Fort McNair,Entire home/apt,2,1,31,150
+53741239,10/8/2013,0.98,F,8,Dupont Circle,Entire home/apt,5,2,1,457
+53785240,12/29/2015,0.98,F,2,Bellevue,Entire home/apt,10,4,2,300
+53795630,8/26/2020,0.92,F,2,Bellevue,Entire home/apt,3,1,3,69
+53834887,3/16/2015,1,T,1,Capitol Hill,Entire home/apt,2,1,1,143
+53895342,8/24/2016,0.96,T,2,Capitol Hill,Entire home/apt,4,2,3,95
+53919426,2/8/2016,1,T,4,Capitol Hill,Entire home/apt,6,3,3,282
+53937890,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,2,1,2,207
+53938276,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,2,1,2,229
+53939227,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,6,3,2,293
+53939232,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,2,1,2,237
+53939250,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,4,2,2,215
+53939398,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,4,2,2,180
+53939485,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,4,2,2,258
+53939672,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,4,1,2,246
+53941334,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,4,2,2,215
+53953956,5/8/2015,0.33,F,1,Dupont Circle,Entire home/apt,4,3,31,132
+53957479,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,2,1,2,121
+53958255,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,2,1,2,125
+53958894,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,2,1,2,119
+53989278,8/18/2016,1,F,34,Bellevue,Private room,2,1,2,54
+54039531,12/3/2020,1,T,4,Capitol Hill,Entire home/apt,5,3,3,317
+54054615,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,4,2,2,201
+54069994,8/18/2016,1,F,34,Bellevue,Private room,2,1,2,49
+54094540,6/16/2015,1,T,2,Capitol Hill,Entire home/apt,4,2,1,296
+54103533,7/19/2017,0.88,T,5,Capitol Hill,Private room,1,1,31,59
+54141223,8/3/2020,0.95,F,5,Bellevue,Entire home/apt,8,5,31,400
+54163640,10/15/2015,0.99,T,250,Petworth,Entire home/apt,7,4,2,174
+54182136,12/27/2021,NA,F,36,Bellevue,Private room,2,1,1,54
+54182929,12/27/2021,NA,F,36,Bellevue,Private room,2,1,2,59
+54215403,5/22/2016,1,T,1,Takoma,Entire home/apt,4,2,1,75
+54271035,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,4,2,32,208
+54295605,1/13/2022,0.87,T,1,Takoma,Entire home/apt,8,5,2,255
+54296485,10/25/2021,0.93,T,4,Capitol Hill,Entire home/apt,4,2,2,227
+54353240,5/14/2016,0.94,T,2,Petworth,Entire home/apt,4,2,3,103
+54353625,6/14/2015,1,T,1,Georgetown,Entire home/apt,8,6,1,459
+54371154,4/5/2021,NA,F,2342,Downtown,Entire home/apt,5,3,1,387
+54376826,1/20/2022,0.7,F,1,Capitol Hill,Entire home/apt,6,3,2,200
+54389675,3/14/2015,1,F,1,Fort McNair,Entire home/apt,2,1,60,200
+5.30E+17,2/26/2018,0.75,F,1,Dupont Circle,Entire home/apt,4,2,1,108
+5.41E+17,10/28/2013,0.98,T,2,Capitol Hill,Entire home/apt,3,1,7,320
+5.44E+17,10/10/2016,1,T,1,Capitol Hill,Entire home/apt,4,2,2,200
+5.45E+17,12/27/2021,NA,F,36,Bellevue,Private room,2,1,1,50
+5.47E+17,1/23/2022,1,F,1,Takoma,Entire home/apt,4,2,60,105
+5.47E+17,12/27/2021,NA,F,36,Bellevue,Private room,1,1,1,44
+5.47E+17,3/26/2016,0.96,T,1,Capitol Hill,Entire home/apt,3,2,2,132
+5.48E+17,6/7/2012,1,T,1,Capitol Hill,Private room,2,1,3,45
+5.48E+17,1/25/2022,0.99,F,5,Downtown,Entire home/apt,4,2,1,295
+5.48E+17,2/28/2016,0.99,T,3,Georgetown,Entire home/apt,2,1,4,123
+5.49E+17,1/26/2022,0.95,F,1,Fort McNair,Entire home/apt,4,2,2,500
+5.49E+17,12/20/2014,0.8,F,2,Petworth,Entire home/apt,2,1,30,80
+5.49E+17,3/9/2019,0.98,T,22,Dupont Circle,Entire home/apt,2,1,10,289
+5.50E+17,11/17/2019,0.99,F,3,Petworth,Entire home/apt,8,4,3,200
+5.50E+17,1/28/2022,1,F,1,Capitol Hill,Entire home/apt,6,3,31,198
+5.51E+17,1/29/2022,0.75,F,2,Petworth,Entire home/apt,2,1,2,88
+5.52E+17,2/24/2020,0.94,T,5,Downtown,Entire home/apt,2,1,3,300
+5.54E+17,2/2/2022,1,F,1,Bellevue,Entire home/apt,4,1,1,99
+5.54E+17,10/8/2018,0.99,F,83,Georgetown,Entire home/apt,2,1,2,277
+5.56E+17,1/13/2022,1,T,1,Capitol Hill,Entire home/apt,4,2,2,238
+5.60E+17,2/8/2022,0.98,T,1,Fort McNair,Entire home/apt,4,2,2,216
+5.60E+17,8/18/2016,1,F,34,Bellevue,Private room,2,1,2,43
+5.60E+17,6/30/2021,1,T,2,Fort McNair,Entire home/apt,3,1,1,215
+5.61E+17,8/3/2020,0.95,F,5,Bellevue,Entire home/apt,7,5,2,297
+5.62E+17,2/5/2013,0.95,T,5,Capitol Hill,Entire home/apt,2,1,3,155
+5.62E+17,12/22/2015,0.97,T,2,Downtown,Entire home/apt,2,1,5,130
+5.63E+17,2/15/2022,0.95,T,1,Capitol Hill,Entire home/apt,2,1,2,137
+5.63E+17,2/16/2022,0.97,T,1,Petworth,Entire home/apt,7,4,3,275
+5.65E+17,3/8/2015,1,F,7,Takoma,Entire home/apt,2,1,31,50
+5.68E+17,2/21/2022,1,F,3,Takoma,Entire home/apt,2,1,2,85
+5.70E+17,10/15/2018,0.96,F,2,Capitol Hill,Entire home/apt,2,1,2,135
+5.70E+17,4/24/2015,0.59,F,4,Georgetown,Entire home/apt,4,2,2,650
+5.70E+17,6/11/2014,0.96,F,147,Fort McNair,Entire home/apt,5,3,3,383
+5.72E+17,2/28/2022,1,T,1,Capitol Hill,Entire home/apt,4,2,2,272
+5.72E+17,3/6/2018,1,T,14,Dupont Circle,Private room,2,1,1,348
+5.72E+17,3/6/2018,1,T,14,Dupont Circle,Private room,4,2,1,425
+5.73E+17,2/28/2022,0.98,F,1,Capitol Hill,Entire home/apt,4,2,3,217
+5.73E+17,3/22/2018,1,F,5,Petworth,Private room,2,1,1,69
+5.74E+17,11/26/2013,0.77,F,8,Georgetown,Entire home/apt,2,1,60,80
+5.75E+17,12/27/2021,NA,F,36,Petworth,Private room,2,1,2,69
+5.75E+17,9/18/2015,1,F,2,Georgetown,Entire home/apt,2,1,14,120
+5.77E+17,10/15/2015,0.99,T,250,Capitol Hill,Entire home/apt,4,2,2,100
+5.77E+17,7/18/2017,0.67,F,1,Dupont Circle,Entire home/apt,7,2,2,499
+5.77E+17,6/2/2014,0.94,F,3,Capitol Hill,Entire home/apt,8,6,2,250
+5.78E+17,10/15/2015,0.99,T,250,Georgetown,Entire home/apt,6,3,31,126
+5.79E+17,12/27/2021,NA,F,36,Petworth,Private room,2,1,1,65
+5.80E+17,8/10/2011,1,T,2,Fort McNair,Entire home/apt,6,5,1,130
+5.80E+17,12/16/2016,0.97,F,4369,Capitol Hill,Entire home/apt,4,2,32,250
+5.81E+17,10/8/2012,0.99,T,14,Dupont Circle,Entire home/apt,7,3,2,356
+5.82E+17,9/10/2013,1,F,4,Petworth,Entire home/apt,2,1,1,61
+5.83E+17,9/9/2019,1,T,2,Capitol Hill,Entire home/apt,6,3,2,212
+5.83E+17,12/27/2021,NA,F,36,Petworth,Private room,2,1,2,81
+5.85E+17,12/27/2021,NA,F,36,Bellevue,Private room,2,1,1,52
+5.87E+17,5/14/2019,0.97,F,52,Bellevue,Private room,1,1,31,49
+5.87E+17,10/15/2015,0.99,T,250,Downtown,Entire home/apt,4,2,2,395
+5.89E+17,1/5/2015,1,T,2,Petworth,Entire home/apt,4,2,2,122
+5.90E+17,4/27/2016,0.8,F,36,Dupont Circle,Entire home/apt,2,2,31,75
+5.90E+17,11/15/2012,1,T,6,Petworth,Entire home/apt,8,4,4,242
+5.91E+17,10/8/2018,0.99,F,83,Dupont Circle,Private room,2,1,2,193
+5.91E+17,5/14/2019,0.97,F,52,Bellevue,Private room,1,1,31,30
+5.93E+17,9/13/2015,0.93,T,1,Petworth,Entire home/apt,4,1,2,102
+5.94E+17,10/15/2015,0.99,T,250,Petworth,Entire home/apt,4,2,2,92
+5.94E+17,10/15/2015,0.99,T,250,Petworth,Entire home/apt,4,2,2,92
+5.94E+17,11/19/2021,1,F,10,Georgetown,Private room,2,1,1,322
+5.95E+17,3/31/2022,0.75,F,2,Takoma,Entire home/apt,2,1,28,93
+5.95E+17,1/30/2021,1,T,7,Dupont Circle,Entire home/apt,3,3,30,169
+5.98E+17,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,4,2,2,214
+6.00E+17,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,2,1,2,134
+6.00E+17,4/10/2016,0.97,F,1,Capitol Hill,Entire home/apt,5,2,1,137
+6.03E+17,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,2,1,2,131
+6.03E+17,3/12/2018,1,F,5,Petworth,Entire home/apt,6,3,2,391
+6.04E+17,10/15/2015,0.99,T,250,Capitol Hill,Entire home/apt,6,3,2,154
+6.05E+17,2/8/2016,1,T,4,Capitol Hill,Entire home/apt,4,2,3,206
+6.05E+17,4/14/2022,1,T,2,Georgetown,Entire home/apt,3,1,1,167
+6.07E+17,1/12/2016,0.89,F,1,Bellevue,Private room,2,1,2,71
+6.08E+17,6/3/2015,1,F,2,Capitol Hill,Entire home/apt,4,2,2,114
+6.08E+17,7/1/2016,1,F,1,Fort McNair,Entire home/apt,4,2,1,124
+6.09E+17,12/16/2016,0.97,F,4369,Downtown,Entire home/apt,2,1,32,164
+6.09E+17,8/26/2019,0.95,T,21,Dupont Circle,Entire home/apt,2,1,2,144
+6.13E+17,5/14/2019,0.97,F,52,Bellevue,Private room,1,1,31,30
+6.13E+17,1/18/2010,0.99,F,28,Georgetown,Entire home/apt,6,2,2,269
+6.14E+17,12/27/2014,1,F,2,Capitol Hill,Entire home/apt,8,6,3,239
+6.14E+17,11/19/2021,1,F,10,Georgetown,Private room,2,1,1,322
+6.15E+17,12/27/2021,NA,F,36,Bellevue,Private room,2,1,2,45
+6.15E+17,12/27/2021,NA,F,36,Bellevue,Private room,2,1,1,52
+6.15E+17,4/28/2022,1,F,1,Takoma,Entire home/apt,10,6,4,300
+6.15E+17,4/10/2012,0.96,F,2,Petworth,Entire home/apt,2,1,1,97
+6.15E+17,1/22/2016,1,T,3,Capitol Hill,Entire home/apt,6,3,1,131
+6.16E+17,2/22/2018,1,F,6605,Fort McNair,Private room,2,1,1,264
+6.17E+17,2/22/2018,1,F,6605,Fort McNair,Private room,8,4,1,551
+6.17E+17,2/22/2018,1,F,6605,Fort McNair,Private room,8,4,1,551
+6.17E+17,2/22/2018,1,F,6605,Fort McNair,Private room,4,2,1,276
+6.17E+17,2/22/2018,1,F,6605,Fort McNair,Private room,2,1,1,264
+6.17E+17,11/15/2013,1,F,2,Capitol Hill,Entire home/apt,2,1,3,110
+6.19E+17,8/18/2016,1,F,34,Bellevue,Private room,1,1,1,44
+6.19E+17,10/15/2015,0.99,T,250,Petworth,Entire home/apt,8,5,2,210
+6.19E+17,5/4/2022,1,F,1,Bellevue,Entire home/apt,2,1,1,83
+6.21E+17,4/21/2016,1,F,2,Takoma,Entire home/apt,4,1,2,101
+6.23E+17,6/22/2020,0.98,T,4,Dupont Circle,Entire home/apt,3,1,31,100
+6.24E+17,6/30/2015,0.97,F,26,Georgetown,Entire home/apt,6,3,2,207
+6.24E+17,6/30/2015,0.97,F,26,Georgetown,Entire home/apt,6,3,2,197
+6.24E+17,7/10/2019,0.79,F,1,Dupont Circle,Entire home/apt,4,2,2,329
+6.25E+17,1/2/2017,1,T,3,Capitol Hill,Entire home/apt,6,2,1,167
+6.26E+17,5/24/2016,1,F,3,Petworth,Entire home/apt,8,4,1,321
+6.29E+17,5/14/2019,0.97,F,52,Bellevue,Private room,1,1,31,35
+6.29E+17,12/10/2010,0.48,F,79,Petworth,Private room,1,1,31,35
+6.29E+17,7/5/2017,0.97,F,8,Fort McNair,Entire home/apt,8,4,1,309
+6.31E+17,7/12/2012,0.8,F,4,Petworth,Entire home/apt,2,2,2,112
+6.31E+17,5/17/2022,0.95,F,2,Bellevue,Entire home/apt,4,2,2,127
+6.32E+17,1/9/2018,0.89,F,1,Capitol Hill,Entire home/apt,2,1,2,128
+6.33E+17,10/8/2012,0.99,T,14,Dupont Circle,Entire home/apt,4,2,2,136
+6.33E+17,2/8/2016,1,T,4,Capitol Hill,Entire home/apt,4,2,3,109
+6.34E+17,10/15/2015,0.99,T,250,Dupont Circle,Entire home/apt,2,1,2,120
+6.34E+17,10/15/2015,0.99,T,250,Dupont Circle,Entire home/apt,4,2,2,114
+6.35E+17,5/14/2019,0.97,F,52,Bellevue,Private room,1,1,31,32
+6.35E+17,5/24/2022,1,F,1,Capitol Hill,Entire home/apt,2,1,2,124
+6.35E+17,10/8/2012,0.99,T,14,Dupont Circle,Entire home/apt,10,6,2,483
+6.36E+17,5/26/2022,1,F,1,Georgetown,Private room,1,1,1,160
+6.39E+17,12/23/2017,0.95,F,1,Petworth,Entire home/apt,7,3,3,192
+6.41E+17,1/13/2013,1,F,1,Dupont Circle,Entire home/apt,4,2,3,195
+6.43E+17,10/15/2015,0.99,T,250,Capitol Hill,Entire home/apt,4,2,2,103
+6.44E+17,1/19/2018,1,F,2,Petworth,Entire home/apt,3,1,2,165
+6.44E+17,7/19/2017,0.48,F,11,Georgetown,Entire home/apt,5,3,10,225
+6.45E+17,6/9/2022,1,F,1,Georgetown,Entire home/apt,4,3,1,135
+6.46E+17,1/25/2022,0.99,F,5,Downtown,Entire home/apt,2,1,1,285
+6.48E+17,11/2/2015,0.86,F,2,Capitol Hill,Entire home/apt,4,2,2,111
+6.48E+17,10/24/2017,1,F,1,Capitol Hill,Entire home/apt,4,2,1,160
+6.50E+17,12/23/2014,0.99,F,1141,Downtown,Private room,4,2,1,226
+6.51E+17,7/31/2016,0.88,F,6,Petworth,Entire home/apt,2,1,30,100
+6.53E+17,5/15/2016,0.67,F,1,Georgetown,Entire home/apt,2,1,4,199
+6.53E+17,3/12/2020,0.93,F,5,Takoma,Private room,2,1,2,60
+6.54E+17,10/15/2015,0.99,T,250,Petworth,Entire home/apt,4,2,2,92
+6.55E+17,6/8/2019,1,F,1,Fort McNair,Entire home/apt,5,1,2,191
+6.59E+17,11/5/2015,1,F,3,Georgetown,Private room,2,1,1,137
+6.59E+17,6/27/2022,1,F,1,Capitol Hill,Entire home/apt,4,2,2,176
+6.59E+17,1/20/2015,1,F,1,Dupont Circle,Entire home/apt,2,1,2,149
+6.59E+17,5/15/2022,1,F,5,Downtown,Entire home/apt,2,1,1,197
+6.59E+17,11/22/2015,0.96,F,1,Petworth,Entire home/apt,5,3,1,130
+6.62E+17,9/25/2015,0.96,F,1,Petworth,Entire home/apt,4,3,2,111
+6.63E+17,4/13/2022,1,F,3,Bellevue,Entire home/apt,5,3,1,114
+6.63E+17,9/20/2014,1,F,17,Georgetown,Entire home/apt,4,2,1,139
+6.64E+17,9/20/2014,1,F,17,Georgetown,Entire home/apt,5,3,1,157
+6.64E+17,9/20/2014,1,F,17,Georgetown,Entire home/apt,5,3,1,178
+6.64E+17,2/3/2022,1,T,3,Fort McNair,Entire home/apt,4,2,1,200
+6.65E+17,3/17/2020,0.96,F,1,Georgetown,Entire home/apt,4,2,2,155
+6.65E+17,1/31/2022,1,F,3,Downtown,Entire home/apt,4,2,3,120
+6.66E+17,11/27/2014,0.89,F,3,Georgetown,Private room,1,1,2,65
+6.67E+17,9/20/2014,1,F,17,Georgetown,Entire home/apt,5,3,1,164
+6.69E+17,3/12/2020,0.93,F,5,Takoma,Private room,2,1,2,70
+6.71E+17,3/12/2020,0.93,F,5,Takoma,Private room,2,1,2,60
+6.71E+17,4/28/2019,1,F,3,Bellevue,Entire home/apt,5,3,1,128
+6.72E+17,10/9/2014,0.91,F,1,Petworth,Entire home/apt,4,2,1,104
+6.72E+17,3/12/2020,0.93,F,5,Takoma,Private room,2,1,2,50
+6.78E+17,7/31/2016,0.88,F,6,Petworth,Entire home/apt,4,2,30,111
+6.78E+17,12/8/2021,0.86,F,4,Petworth,Private room,2,1,2,62
+6.80E+17,10/15/2015,0.99,T,250,Dupont Circle,Entire home/apt,8,4,3,454
+6.85E+17,9/20/2014,1,F,17,Georgetown,Entire home/apt,5,3,1,160
+6.88E+17,11/20/2015,0.98,T,2,Petworth,Entire home/apt,4,1,2,120
+6.88E+17,11/26/2012,0.99,T,5,Georgetown,Private room,1,1,2,47
+6.89E+17,4/13/2022,1,F,3,Bellevue,Entire home/apt,3,1,1,96
+6.91E+17,8/4/2021,1,F,5,Downtown,Entire home/apt,2,1,1,289
+6.91E+17,8/4/2021,1,F,5,Downtown,Entire home/apt,4,2,1,309
+6.95E+17,5/14/2019,0.97,F,52,Bellevue,Private room,1,1,31,30
+6.95E+17,8/16/2022,1,F,2,Capitol Hill,Entire home/apt,6,3,3,299
+6.95E+17,7/20/2012,0.78,F,5,Petworth,Private room,1,1,2,65
